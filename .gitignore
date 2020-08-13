@@ -1,0 +1,2 @@
+# ignore backups from previous data retrievals
+data/raw/boletim-atualizado_*
