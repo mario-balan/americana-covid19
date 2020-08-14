@@ -5,7 +5,6 @@ Bairro da Lagoa
 Balneário Riviera 
 Balneário Salto Grande 
 Barroca 
-Berinjela
 Boa Esperança
 Bom Recreio
 Bosque da Saúde 
@@ -130,10 +129,10 @@ Jardim da Paz
 Jardim do Lago 
 Jardim dos Lírios 
 Jardim dos Pinheiros
-L.M.F. Jorge
-Lot. A. Franciscangelis
+Loteamento Marinho Ferreira Jorge
+Loteamento Antonio Franciscangelis
 Loteamento Industrial Distrito Abdo Najar
-Lot. Ind. Jardim Werner Plass 
+Loteamento Industrial Jardim Werner Plass 
 Monte Carlo 
 Morada do Sol 
 Olho D’ Água 

@@ -1,0 +1,1684 @@
+A Zanaga
+[('Antônio Zanaga', 86), ('Catharina Zanaga ', 86), ('Jardim Santana ', 55)]
+[('Catharina Zanaga ', 100), ('Antônio Zanaga', 88)]
+('Antônio Zanaga', 73)
+Alabahamas
+[('Jardim Alvorada ', 48), ('Jardim da Balsa', 48), ('Jardim Guanabara ', 46)]
+[('Jardim Guanabara ', 50), ('Jardim Alvorada ', 40)]
+('Jardim Guanabara ', 38)
+Americana
+[('Iate Clube Americana ', 100), ('Jardim Nova Americana ', 100), ('Vila Nova Americana ', 100)]
+[('Iate Clube Americana ', 100), ('Jardim Nova Americana ', 100)]
+('Iate Clube Americana ', 62)
+Antonio Zanaga
+[('Antônio Zanaga', 96), ('Catharina Zanaga ', 67), ('Loteamento Antonio Franciscangelis', 67)]
+[('Antônio Zanaga', 93), ('Loteamento Antonio Franciscangelis', 71)]
+('Antônio Zanaga', 93)
+Antonio Zanaga I
+[('Antônio Zanaga', 90), ('Jardim Santo Antônio ', 63), ('Catharina Zanaga ', 62)]
+[('Antônio Zanaga', 93), ('Catharina Zanaga ', 65)]
+('Antônio Zanaga', 87)
+Antonio Zanaga Ii
+[('Antônio Zanaga', 87), ('Catharina Zanaga ', 61), ('Jardim Santo Antônio ', 61)]
+[('Antônio Zanaga', 93), ('Catharina Zanaga ', 62)]
+('Antônio Zanaga', 84)
+Antônio Zanaga I
+[('Antônio Zanaga', 100), ('Catharina Zanaga ', 65), ('Jardim Santo Antônio ', 65)]
+[('Antônio Zanaga', 100), ('Catharina Zanaga ', 65)]
+('Antônio Zanaga', 93)
+Asta
+[('Jardim Santana ', 44), ('Vila Biasi ', 43), ('Jardim Paulista ', 42)]
+[('Jardim Santana ', 75), ('Jardim Paulista ', 75)]
+('Jardim Santana ', 44)
+Asta Iii
+[('Vila Santa Julia', 50), ('Vila Santa Maria', 50), ('Vila Santa Monica ', 48)]
+[('Vila Santa Julia', 62), ('Vila Santa Maria', 62)]
+('Vila Santa Julia', 50)
+Bal Rivieira
+[('Balneário Riviera ', 79), ('Vila Sobral', 61), ('Jardim Primavera ', 57)]
+[('Balneário Riviera ', 70), ('Jardim Primavera ', 58)]
+('Balneário Riviera ', 76)
+Balneario Riviera
+[('Balneário Riviera ', 97), ('Riviera Tamborlim', 65), ('Balneário Salto Grande ', 63)]
+[('Balneário Riviera ', 94), ('Balneário Salto Grande ', 59)]
+('Balneário Riviera ', 94)
+Balneario Salto Grande
+[('Salto Grande ', 100), ('Balneário Salto Grande ', 98), ('Fazenda Salto Grande ', 76)]
+[('Salto Grande ', 100), ('Balneário Salto Grande ', 95)]
+('Balneário Salto Grande ', 95)
+Balneário Salto Grande
+[('Balneário Salto Grande ', 100), ('Salto Grande ', 100), ('Fazenda Salto Grande ', 75)]
+[('Balneário Salto Grande ', 100), ('Salto Grande ', 100)]
+('Balneário Salto Grande ', 100)
+Balsa
+[('Jardim da Balsa', 100), ('Vila Bela', 57), ('Vila Biasi ', 53)]
+[('Jardim da Balsa', 100), ('Vila Bela', 60)]
+('Jardim da Balsa', 50)
+Bela Vista
+[('Jardim Bela Vista ', 100), ('Vila Bela', 84), ('Parque Residencial Boa Vista ', 67)]
+[('Jardim Bela Vista ', 100), ('Parque Residencial Boa Vista ', 80)]
+('Jardim Bela Vista ', 74)
+Belvedere
+[('Vila Belvedere', 100), ('Vila Bela', 44), ('Parque da Liberdade', 43)]
+[('Vila Belvedere', 100), ('Parque da Liberdade', 44)]
+('Vila Belvedere', 78)
+Bertine
+[('Vila Bertini', 63), ('Chácara Bertini', 57), ('Jardim Bertoni ', 48)]
+[('Vila Bertini', 86), ('Chácara Bertini', 86)]
+('Vila Bertini', 63)
+Bertone
+[('Jardim Bertoni ', 57), ('Vila Bertini', 53), ('Chácara Bertini', 48)]
+[('Jardim Bertoni ', 86), ('Vila Bertini', 71)]
+('Jardim Bertoni ', 57)
+Bertoni
+[('Jardim Bertoni ', 100), ('Vila Bertini', 63), ('Chácara Bertini', 57)]
+[('Jardim Bertoni ', 100), ('Vila Bertini', 86)]
+('Jardim Bertoni ', 67)
+Boa Vista
+[('Parque Residencial Boa Vista ', 100), ('Jardim Bela Vista ', 71), ('Recanto Vista Alegre ', 71)]
+[('Parque Residencial Boa Vista ', 100), ('Jardim Bela Vista ', 78)]
+('Jardim Bela Vista ', 62)
+Boer
+[('Industrial Sigisfredo Boer ', 100), ('Bom Recreio', 53), ('Boa Esperança', 50)]
+[('Industrial Sigisfredo Boer ', 100), ('Bom Recreio', 50)]
+('Bom Recreio', 53)
+Brasil
+[('Jardim Pau Brasil', 100), ('Jardim Brasil ', 100), ('Vila Biasi ', 62)]
+[('Jardim Pau Brasil', 100), ('Jardim Brasil ', 100)]
+('Jardim Brasil ', 63)
+Briedes
+[('Jardim Briedis ', 57), ('Represa ', 57), ('Jardim São Pedro ', 45)]
+[('Jardim Briedis ', 86), ('Represa ', 57)]
+('Jardim Briedis ', 57)
+Brieds
+[('Jardim Briedis ', 60), ('Jardim São Pedro ', 48), ('São Benedito', 47)]
+[('Jardim Briedis ', 83), ('Jardim São Pedro ', 50)]
+('Jardim Briedis ', 60)
+C Jardim
+[('Cidade Jardim ', 86), ('Jardim América ', 86), ('Jardim Bazanelli ', 86)]
+[('Cidade Jardim ', 88), ('Jardim América ', 75)]
+('Cidade Jardim ', 76)
+Campo Limpo
+[('Campo Limpo', 100), ('Jardim Campo Belo ', 64), ('Campo Verde ', 62)]
+[('Campo Limpo', 100), ('Jardim Campo Belo ', 76)]
+('Campo Limpo', 100)
+Campo Verde
+[('Campo Verde ', 100), ('Jardim Campo Belo ', 64), ('Campo Limpo', 62)]
+[('Campo Verde ', 100), ('Jardim Campo Belo ', 67)]
+('Campo Verde ', 100)
+Campos Verdes
+[('Campo Verde ', 92), ('Jardim Campo Belo ', 53), ('Iate Clube de Campinas ', 51)]
+[('Campo Verde ', 91), ('Jardim Campo Belo ', 61)]
+('Campo Verde ', 92)
+Caranvila
+[('Vila Mariana', 76), ('Vila Pavan ', 74), ('Vila Branca ', 70)]
+[('Vila Mariana', 56), ('Vila Branca ', 56)]
+('Vila Branca ', 50)
+Carioba
+[('Carioba ', 100), ('Parque Nova Carioba ', 100), ('Cariobinha ', 82)]
+[('Carioba ', 100), ('Parque Nova Carioba ', 100)]
+('Carioba ', 100)
+Cariobinha
+[('Cariobinha ', 100), ('Carioba ', 82), ('Parque Nova Carioba ', 55)]
+[('Cariobinha ', 100), ('Carioba ', 86)]
+('Cariobinha ', 100)
+Casarina
+[('Carioba ', 67), ('Cariobinha ', 67), ('Vila Camargo ', 60)]
+[('Carioba ', 62), ('Cariobinha ', 62)]
+('Carioba ', 67)
+Catharina Zanaga
+[('Catharina Zanaga ', 100), ('Vila Santa Catarina', 74), ('Antônio Zanaga', 69)]
+[('Catharina Zanaga ', 100), ('Antônio Zanaga', 64)]
+('Catharina Zanaga ', 100)
+Centro
+[('Centro ', 100), ('São Benedito', 47), ('Camargo ', 46)]
+[('Centro ', 100), ('São Benedito', 50)]
+('Centro ', 100)
+Chac Machadinho
+[('Chácara Machadinho ', 88), ('Fazenda Machadinho ', 80), ('Parque Industrial Machadinho ', 80)]
+[('Chácara Machadinho ', 87), ('Fazenda Machadinho ', 80)]
+('Chácara Machadinho ', 85)
+Chaca Rodrigues
+[('Chácara Rodrigues', 90), ('Chácara Rodrigues', 90), ('Chácara Santa Cruz', 50)]
+[('Chácara Rodrigues', 87), ('Chácara Rodrigues', 87)]
+('Chácara Rodrigues', 88)
+Chacara Letonia
+[('Chácara Letônia ', 93), ('Chácara Lucília', 71), ('Chácara Mantovani ', 71)]
+[('Chácara Letônia ', 87), ('Chácara Lucília', 67)]
+('Chácara Letônia ', 87)
+Chacara Letôneo
+[('Chácara Letônia ', 81), ('Chácara Pântano ', 74), ('Chácara Mantovani ', 60)]
+[('Chácara Letônia ', 80), ('Chácara Pântano ', 67)]
+('Chácara Letônia ', 80)
+Chacara Machadinho
+[('Chácara Machadinho ', 97), ('Chácara Machado ', 88), ('Fazenda Machadinho ', 72)]
+[('Chácara Machadinho ', 94), ('Chácara Machado ', 87)]
+('Chácara Machadinho ', 94)
+Chacara Machadinho I
+[('Chácara Machadinho ', 92), ('Chácara Machado ', 82), ('Fazenda Machadinho ', 71)]
+[('Chácara Machadinho ', 94), ('Chácara Machado ', 87)]
+('Chácara Machadinho ', 89)
+Chacara Machadinho Ii
+[('Chácara Machadinho ', 89), ('Chácara Machado ', 80), ('Fazenda Machadinho ', 71)]
+[('Chácara Machadinho ', 94), ('Chácara Machado ', 87)]
+('Chácara Machadinho ', 87)
+Chacara Rodrigues
+[('Chácara Rodrigues', 97), ('Chácara Rodrigues', 97), ('Chácara Santa Cruz', 59)]
+[('Chácara Rodrigues', 94), ('Chácara Rodrigues', 94)]
+('Chácara Rodrigues', 94)
+Chacaras Mantovani
+[('Chácara Mantovani ', 94), ('Chácara Pântano ', 71), ('Chácara Letônia ', 65)]
+[('Chácara Mantovani ', 88), ('Chácara Pântano ', 67)]
+('Chácara Mantovani ', 91)
+Chácara Letonia
+[('Chácara Letônia ', 96), ('Chácara Bertini', 79), ('Chácara Lucília', 74)]
+[('Chácara Letônia ', 93), ('Chácara Bertini', 80)]
+('Chácara Letônia ', 93)
+Chácara Machadinho
+[('Chácara Machadinho ', 100), ('Chácara Machado ', 90), ('Fazenda Machadinho ', 74)]
+[('Chácara Machadinho ', 100), ('Chácara Machado ', 93)]
+('Chácara Machadinho ', 100)
+Ciadde Jardim
+[('Cidade Jardim ', 92), ('Jardim Colina ', 77), ('Jardim Bôer', 75)]
+[('Cidade Jardim ', 92), ('Jardim Bôer', 55)]
+('Cidade Jardim ', 92)
+Cid Jardim
+[('Jardim Industrial Prefeito Cid. Azevedo Marques', 100), ('Cidade Jardim ', 87), ('Jardim Colina ', 78)]
+[('Cidade Jardim ', 80), ('Jardim Industrial Prefeito Cid. Azevedo Marques', 50)]
+('Cidade Jardim ', 87)
+Cid Jardim I
+[('Jardim Industrial Prefeito Cid. Azevedo Marques', 91), ('Cidade Jardim ', 80), ('Jardim Briedis ', 77)]
+[('Cidade Jardim ', 75), ('Jardim Briedis ', 67)]
+('Cidade Jardim ', 80)
+Cidade Jardim
+[('Cidade Jardim ', 100), ('Jardim Colina ', 77), ('Jardim Bôer', 75)]
+[('Cidade Jardim ', 100), ('Jardim Bôer', 55)]
+('Cidade Jardim ', 100)
+Cidade Jardim 2
+[('Cidade Jardim ', 100), ('Jardim Bôer', 75), ('Jardim Colina ', 71)]
+[('Cidade Jardim ', 100), ('Jardim Bôer', 74)]
+('Cidade Jardim ', 93)
+Cidade Jardim I
+[('Cidade Jardim ', 100), ('Jardim Luciani ', 76), ('Jardim Bôer', 75)]
+[('Cidade Jardim ', 100), ('Jardim Bôer', 74)]
+('Cidade Jardim ', 93)
+Cidade Jardim Ii
+[('Cidade Jardim ', 100), ('Jardim Bôer', 75), ('Jardim Luciani ', 73)]
+[('Cidade Jardim ', 100), ('Jardim Luciani ', 78)]
+('Cidade Jardim ', 90)
+Cidade Nova
+[('Cidade Jardim ', 71), ('Parque Nova Carioba ', 60), ('Vila Israel ', 55)]
+[('Cidade Jardim ', 73), ('Parque Nova Carioba ', 64)]
+('Cidade Jardim ', 67)
+Colina
+[('Jardim Colina ', 100), ('Jardim Portal da Colina ', 100), ('Cariobinha ', 62)]
+[('Jardim Colina ', 100), ('Jardim Portal da Colina ', 100)]
+('Jardim Colina ', 63)
+Conserva
+[('Conserva ', 100), ('Cachoeira ', 59), ('Vila Jones', 56)]
+[('Conserva ', 100), ('Cachoeira ', 62)]
+('Conserva ', 100)
+Cordenunci
+[('Vila Cordenonsi', 64), ('Residencial Jacyra ', 50), ('Bom Recreio', 48)]
+[('Vila Cordenonsi', 80), ('Residencial Jacyra ', 50)]
+('Vila Cordenonsi', 64)
+Cpo Limpo
+[('Campo Limpo', 90), ('Monte Carlo ', 50), ('Bairro Leitão ', 48)]
+[('Campo Limpo', 89), ('Bairro Leitão ', 56)]
+('Campo Limpo', 90)
+Distrito Industrial Abdo Najar
+[('Loteamento Industrial Distrito Abdo Najar', 100), ('Industrial Maria Criveloni Abrão ', 69), ('Vila Najar ', 67)]
+[('Loteamento Industrial Distrito Abdo Najar', 73), ('Vila Najar ', 70)]
+('Loteamento Industrial Distrito Abdo Najar', 70)
+Frezarim
+[('Vila Frezzarim', 73), ('Jardim Florbela', 61), ('Jardim Das Flores ', 56)]
+[('Vila Frezzarim', 88), ('Jardim Florbela', 50)]
+('Vila Frezzarim', 73)
+Frezarin
+[('Vila Frezzarim', 64), ('Jardim Florbela', 52), ('Jardim Das Flores ', 48)]
+[('Vila Frezzarim', 88), ('Jardim Florbela', 50)]
+('Vila Frezzarim', 64)
+Frezzarim
+[('Vila Frezzarim', 100), ('Jardim Florbela', 58), ('Jardim Das Flores ', 54)]
+[('Vila Frezzarim', 100), ('Jardim Florbela', 44)]
+('Vila Frezzarim', 78)
+Frezzarin
+[('Vila Frezzarim', 70), ('Jardim Florbela', 50), ('Jardim Das Flores ', 46)]
+[('Vila Frezzarim', 89), ('Jardim Florbela', 44)]
+('Vila Frezzarim', 70)
+Gramado
+[('Parque Gramado', 100), ('Camargo ', 57), ('Chácara Machado ', 57)]
+[('Parque Gramado', 100), ('Camargo ', 57)]
+('Parque Gramado', 67)
+Guanabara
+[('Jardim Guanabara ', 100), ('Vila Najar ', 53), ('Fazenda Jacyra ', 52)]
+[('Jardim Guanabara ', 100), ('Vila Najar ', 59)]
+('Jardim Guanabara ', 72)
+Iate Clb Americana
+[('Iate Clube Americana ', 95), ('Iate Clube de Campinas ', 70), ('Vila Nova Americana ', 70)]
+[('Iate Clube Americana ', 89), ('Vila Nova Americana ', 72)]
+('Iate Clube Americana ', 95)
+Iate Clube De Campin
+[('Iate Clube de Campinas ', 95), ('Iate Clube Americana ', 75), ('Campo Verde ', 52)]
+[('Iate Clube de Campinas ', 100), ('Iate Clube Americana ', 75)]
+('Iate Clube de Campinas ', 95)
+Iate Clube De Campinas
+[('Iate Clube de Campinas ', 100), ('Iate Clube Americana ', 76), ('Residencial Vale Paineiras ', 50)]
+[('Iate Clube de Campinas ', 100), ('Iate Clube Americana ', 75)]
+('Iate Clube de Campinas ', 100)
+Indl Machadinho
+[('Chácara Machadinho ', 80), ('Fazenda Machadinho ', 80), ('Parque Industrial Machadinho ', 80)]
+[('Fazenda Machadinho ', 87), ('Parque Industrial Machadinho ', 87)]
+('Fazenda Machadinho ', 79)
+Ipiranga
+[('Jardim Ipiranga ', 100), ('Vila San Pietro ', 52), ('Boa Esperança', 50)]
+[('Jardim Ipiranga ', 100), ('Boa Esperança', 62)]
+('Jardim Ipiranga ', 70)
+Jaguari
+[('Parque Residencial Jaguari ', 100), ('Jardim Jacyra ', 50), ('Jardim Luciani ', 48)]
+[('Parque Residencial Jaguari ', 100), ('Jardim Jacyra ', 57)]
+('Parque Residencial Jaguari ', 42)
+Jardim Altos Do Klavin
+[('Jardim do Lago ', 78), ('Jardim Bôer', 75), ('Jardim dos Ipês Amarelos', 71)]
+[('Jardim do Lago ', 64), ('Jardim Bôer', 64)]
+('Jardim do Lago ', 67)
+Jardim Alvorada
+[('Jardim Alvorada ', 100), ('Jardim da Balsa', 80), ('Jardim Bôer', 75)]
+[('Jardim Alvorada ', 100), ('Jardim da Balsa', 67)]
+('Jardim Alvorada ', 100)
+Jardim Amelia
+[('Jardim Amélia ', 96), ('Jardim América ', 85), ('Jardim América ', 85)]
+[('Jardim Amélia ', 92), ('Jardim América ', 77)]
+('Jardim Amélia ', 92)
+Jardim America
+[('Jardim América ', 96), ('Jardim América ', 96), ('Jardim Amélia ', 85)]
+[('Jardim América ', 93), ('Jardim América ', 93)]
+('Jardim América ', 93)
+Jardim America Ii
+[('Jardim América ', 87), ('Jardim América ', 87), ('Jardim Nova Americana ', 79)]
+[('Jardim América ', 93), ('Jardim América ', 93)]
+('Jardim América ', 84)
+Jardim Amélia
+[('Jardim Amélia ', 100), ('Jardim América ', 88), ('Jardim América ', 88)]
+[('Jardim Amélia ', 100), ('Jardim América ', 85)]
+('Jardim Amélia ', 100)
+Jardim Bela Vista
+[('Jardim Bela Vista ', 100), ('Jardim Santa Eliza ', 80), ('Jardim Bôer', 75)]
+[('Jardim Bela Vista ', 100), ('Jardim Bôer', 82)]
+('Jardim Bela Vista ', 100)
+Jardim Bertoni
+[('Jardim Bertoni ', 100), ('Jardim Bôer', 83), ('Jardim Trípoli ', 74)]
+[('Jardim Bertoni ', 100), ('Jardim Bôer', 91)]
+('Jardim Bertoni ', 100)
+Jardim Boer
+[('Jardim Bôer', 95), ('Jardim Bertoni ', 80), ('Jardim Brasil ', 75)]
+[('Jardim Bôer', 91), ('Jardim Bertoni ', 91)]
+('Jardim Bôer', 91)
+Jardim Boer 1
+[('Jardim Bôer', 87), ('Jardim Bertoni ', 74), ('Jardim São José ', 69)]
+[('Jardim Bôer', 91), ('Jardim Bertoni ', 77)]
+('Jardim Bôer', 83)
+Jardim Boer I
+[('Jardim Bôer', 87), ('Jardim Bertoni ', 81), ('Jardim Brasil ', 77)]
+[('Jardim Bôer', 91), ('Jardim Bertoni ', 77)]
+('Jardim Bôer', 83)
+Jardim Brasil
+[('Jardim Pau Brasil', 100), ('Jardim Brasil ', 100), ('Jardim Brasília ', 89)]
+[('Jardim Brasil ', 100), ('Jardim Brasília ', 92)]
+('Jardim Brasil ', 100)
+Jardim Brasilia
+[('Jardim Brasília ', 97), ('Jardim Brasil ', 93), ('Jardim Pau Brasil', 88)]
+[('Jardim Brasil ', 100), ('Jardim Brasília ', 93)]
+('Jardim Brasil ', 93)
+Jardim Brieds
+[('Jardim Briedis ', 96), ('Jardim Bôer', 78), ('Jardim Brasil ', 77)]
+[('Jardim Briedis ', 92), ('Jardim Bôer', 82)]
+('Jardim Briedis ', 96)
+Jardim Colina
+[('Jardim Colina ', 100), ('Jardim Portal da Colina ', 100), ('Jardim Amélia ', 80)]
+[('Jardim Colina ', 100), ('Jardim Amélia ', 77)]
+('Jardim Colina ', 100)
+Jardim Conquista
+[('Jardim Paulista ', 77), ('Jardim Colina ', 76), ('Jardim Bôer', 75)]
+[('Jardim Colina ', 77), ('Jardim Paulista ', 73)]
+('Jardim Paulista ', 77)
+Jardim Da Balsa
+[('Jardim da Balsa', 100), ('Jardim Da Mata', 83), ('Jardim da Paz ', 82)]
+[('Jardim da Balsa', 100), ('Jardim da Paz ', 85)]
+('Jardim da Balsa', 100)
+Jardim Da Balsa I
+[('Jardim da Balsa', 100), ('Jardim da Paz ', 82), ('Jardim Da Mata', 78)]
+[('Jardim da Balsa', 100), ('Jardim da Paz ', 85)]
+('Jardim da Balsa', 94)
+Jardim Da Balsa Ii
+[('Jardim da Balsa', 100), ('Jardim da Paz ', 82), ('Jardim Da Mata', 78)]
+[('Jardim da Balsa', 100), ('Jardim da Paz ', 85)]
+('Jardim da Balsa', 91)
+Jardim Da Mata
+[('Jardim Da Mata', 100), ('Jardim da Balsa', 83), ('Jardim da Paz ', 82)]
+[('Jardim Da Mata', 100), ('Jardim da Paz ', 85)]
+('Jardim Da Mata', 100)
+Jardim Da Paz
+[('Jardim da Paz ', 100), ('Jardim Da Mata', 82), ('Jardim Portal da Colina ', 82)]
+[('Jardim da Paz ', 100), ('Jardim Da Mata', 85)]
+('Jardim da Paz ', 100)
+Jardim Das Flores
+[('Jardim Das Flores ', 100), ('Jardim dos Lírios ', 79), ('Jardim Bôer', 75)]
+[('Jardim Das Flores ', 100), ('Jardim dos Lírios ', 76)]
+('Jardim Das Flores ', 100)
+Jardim Das Orquideas
+[('Jardim Orquídeas', 86), ('Jardim Das Flores ', 81), ('Jardim Bôer', 75)]
+[('Jardim Das Flores ', 76), ('Jardim Orquídeas', 69)]
+('Jardim Orquídeas', 83)
+Jardim Do Lago
+[('Jardim do Lago ', 100), ('Jardim dos Lírios ', 80), ('Jardim Barra do Cisne', 78)]
+[('Jardim do Lago ', 100), ('Jardim dos Lírios ', 79)]
+('Jardim do Lago ', 100)
+Jardim Dona Rosa
+[('Jardim Dona Rosa ', 100), ('Jardim Dona Judith ', 81), ('Jardim Santarosa', 81)]
+[('Jardim Dona Rosa ', 100), ('Jardim Santarosa', 81)]
+('Jardim Dona Rosa ', 100)
+Jardim Dos Lirios
+[('Jardim dos Lírios ', 97), ('Jardim dos Pinheiros', 81), ('Jardim Dona Rosa ', 79)]
+[('Jardim dos Lírios ', 94), ('Jardim dos Pinheiros', 76)]
+('Jardim dos Lírios ', 94)
+Jardim Dos Lírios
+[('Jardim dos Lírios ', 100), ('Jardim Dona Rosa ', 81), ('Jardim do Lago ', 80)]
+[('Jardim dos Lírios ', 100), ('Jardim do Lago ', 79)]
+('Jardim dos Lírios ', 100)
+Jardim Eldorado
+[('Jardim Alvorada ', 80), ('Jardim Imperador', 77), ('Jardim do Lago ', 76)]
+[('Jardim Alvorada ', 80), ('Jardim Imperador', 80)]
+('Jardim Alvorada ', 80)
+Jardim Esperança
+[('Jardim Esperança', 100), ('Jardim Esplanada ', 84), ('Boa Esperança', 80)]
+[('Jardim Esperança', 100), ('Jardim Esplanada ', 81)]
+('Jardim Esperança', 100)
+Jardim Esplanada
+[('Jardim Esplanada ', 100), ('Jardim Esperança', 84), ('Jardim Santana ', 80)]
+[('Jardim Esplanada ', 100), ('Jardim Esperança', 81)]
+('Jardim Esplanada ', 100)
+Jardim Esplenada
+[('Jardim Esplanada ', 94), ('Jardim Esperança', 84), ('Jardim Helena ', 83)]
+[('Jardim Esplanada ', 94), ('Jardim Helena ', 85)]
+('Jardim Esplanada ', 94)
+Jardim Europa
+[('Jardim Bôer', 78), ('Jardim Bertoni ', 74), ('Jardim Glória ', 72)]
+[('Jardim Bôer', 82), ('Jardim Bertoni ', 77)]
+('Jardim Bôer', 75)
+Jardim Girassol
+[('Jardim Girassol ', 100), ('Jardim Brasil ', 79), ('Jardim Mirandola', 77)]
+[('Jardim Girassol ', 100), ('Jardim Mirandola', 80)]
+('Jardim Girassol ', 100)
+Jardim Gloria
+[('Jardim Glória ', 96), ('Jardim Amélia ', 80), ('Jardim Alvorada ', 79)]
+[('Jardim Glória ', 92), ('Jardim Alvorada ', 85)]
+('Jardim Glória ', 92)
+Jardim Glória
+[('Jardim Glória ', 100), ('Jardim Amélia ', 83), ('Jardim América ', 80)]
+[('Jardim Glória ', 100), ('Jardim Amélia ', 77)]
+('Jardim Glória ', 100)
+Jardim Governador Mario Covas Ii
+[('Jardim Mario Covas', 100), ('Jardim Bôer', 75), ('Jardim Amélia ', 67)]
+[('Jardim Mario Covas', 78), ('Jardim Bôer', 73)]
+('Jardim Mario Covas', 72)
+Jardim Guanabara
+[('Jardim Guanabara ', 100), ('Jardim Bôer', 75), ('Jardim Santarosa', 75)]
+[('Jardim Guanabara ', 100), ('Jardim Santarosa', 75)]
+('Jardim Guanabara ', 100)
+Jardim Helena
+[('Jardim Helena ', 100), ('Jardim Thelja ', 85), ('Jardim Esperança', 79)]
+[('Jardim Helena ', 100), ('Jardim Thelja ', 85)]
+('Jardim Helena ', 100)
+Jardim Imperador
+[('Jardim Imperador', 100), ('Jardim Primavera ', 75), ('Jardim Bôer', 75)]
+[('Jardim Imperador', 100), ('Jardim Primavera ', 75)]
+('Jardim Imperador', 100)
+Jardim Ipiranga
+[('Jardim Ipiranga ', 100), ('Jardim Esperança', 80), ('Jardim Mirandola', 77)]
+[('Jardim Ipiranga ', 100), ('Jardim Esperança', 73)]
+('Jardim Ipiranga ', 100)
+Jardim Lizandra
+[('Jardim Lizandra', 100), ('Jardim Colina ', 79), ('Jardim Santa Eliza ', 79)]
+[('Jardim Lizandra', 100), ('Jardim Colina ', 77)]
+('Jardim Lizandra', 100)
+Jardim Machadinho
+[('Chácara Machadinho ', 76), ('Jardim Bôer', 75), ('Fazenda Machadinho ', 74)]
+[('Chácara Machadinho ', 76), ('Fazenda Machadinho ', 76)]
+('Chácara Machadinho ', 74)
+Jardim Maria Estela
+[('Jardim Maria Cristina ', 80), ('Jardim Terramérica', 78), ('Jardim América ', 75)]
+[('Jardim Maria Cristina ', 79), ('Jardim América ', 79)]
+('Jardim Maria Cristina ', 80)
+Jardim Mirandola
+[('Jardim Mirandola', 100), ('Jardim Ipiranga ', 77), ('Jardim Lizandra', 77)]
+[('Jardim Mirandola', 100), ('Jardim Ipiranga ', 73)]
+('Jardim Mirandola', 100)
+Jardim Mirian
+[('Jardim Miriam', 92), ('Jardim América ', 85), ('Jardim América ', 85)]
+[('Jardim Miriam', 92), ('Jardim América ', 77)]
+('Jardim Miriam', 92)
+Jardim Mollon
+[('Jardim Mollon ', 100), ('Jardim Colina ', 77), ('Jardim Bôer', 75)]
+[('Jardim Mollon ', 100), ('Jardim Colina ', 77)]
+('Jardim Mollon ', 100)
+Jardim Nossa Senhora Aparecida
+[('Jardim Nossa Senhora Aparecida', 100), ('Jardim Nossa Senhora de Fátima  ', 82), ('Jardim Nossa Senhora do Carmo', 82)]
+[('Jardim Nossa Senhora Aparecida', 100), ('Jardim Nossa Senhora de Fátima  ', 80)]
+('Jardim Nossa Senhora Aparecida', 100)
+Jardim Nossa Senhora Da Aparecida
+[('Jardim Nossa Senhora Aparecida', 100), ('Jardim Nossa Senhora de Fátima  ', 82), ('Jardim Nossa Senhora do Carmo', 82)]
+[('Jardim Nossa Senhora Aparecida', 90), ('Jardim Nossa Senhora do Carmo', 86)]
+('Jardim Nossa Senhora Aparecida', 95)
+Jardim Nossa Senhora Do Carmo
+[('Jardim Nossa Senhora do Carmo', 100), ('Jardim Nossa Senhora Aparecida', 82), ('Jardim Nossa Senhora de Fátima  ', 82)]
+[('Jardim Nossa Senhora do Carmo', 100), ('Jardim Nossa Senhora de Fátima  ', 83)]
+('Jardim Nossa Senhora do Carmo', 100)
+Jardim Novo Carrão
+[('Jardim Novo Paraíso', 86), ('Jardim Novo Horizonte', 79), ('Jardim Bôer', 75)]
+[('Jardim Novo Paraíso', 78), ('Jardim Novo Horizonte', 78)]
+('Jardim Novo Paraíso', 81)
+Jardim Novo Horizonte
+[('Jardim Novo Horizonte', 100), ('Jardim Novo Paraíso', 76), ('Jardim Bôer', 75)]
+[('Jardim Novo Horizonte', 100), ('Jardim Novo Paraíso', 74)]
+('Jardim Novo Horizonte', 100)
+Jardim Novo Paraiso
+[('Jardim Novo Paraíso', 97), ('Jardim Mario Covas', 76), ('Jardim Bôer', 75)]
+[('Jardim Novo Paraíso', 95), ('Jardim Bôer', 64)]
+('Jardim Novo Paraíso', 95)
+Jardim Paulista
+[('Jardim Paulista ', 100), ('Jardim Paulistano ', 94), ('Jardim Amélia ', 81)]
+[('Jardim Paulista ', 100), ('Jardim Paulistano ', 100)]
+('Jardim Paulista ', 100)
+Jardim Paulistano
+[('Jardim Paulistano ', 100), ('Jardim Paulista ', 94), ('Jardim São Paulo', 81)]
+[('Jardim Paulistano ', 100), ('Jardim Paulista ', 100)]
+('Jardim Paulistano ', 100)
+Jardim Paz
+[('Jardim da Paz ', 100), ('Cidade Jardim ', 75), ('Jardim América ', 75)]
+[('Jardim da Paz ', 80), ('Jardim América ', 80)]
+('Jardim da Paz ', 87)
+Jardim Primavera
+[('Jardim Primavera ', 100), ('Jardim Bôer', 75), ('Jardim Imperador', 75)]
+[('Jardim Primavera ', 100), ('Jardim Imperador', 75)]
+('Jardim Primavera ', 100)
+Jardim Progresso
+[('Jardim Progresso ', 100), ('Jardim São Pedro ', 77), ('Jardim São Roque ', 77)]
+[('Jardim Progresso ', 100), ('Jardim São Pedro ', 62)]
+('Jardim Progresso ', 100)
+Jardim Recanto
+[('Jardim Recanto ', 100), ('Jardim Planalto', 76), ('Jardim Bôer', 75)]
+[('Jardim Recanto ', 100), ('Jardim Bôer', 73)]
+('Jardim Recanto ', 100)
+Jardim Santa Cruz
+[('Jardim Santa Eliza ', 83), ('Jardim Santa Lucia ', 83), ('Jardim Santa Sofia', 83)]
+[('Jardim Santa Eliza ', 82), ('Jardim Santa Lucia ', 82)]
+('Jardim Santa Eliza ', 80)
+Jardim Santa Eliza
+[('Jardim Santa Eliza ', 100), ('Jardim Santa Lucia ', 89), ('Jardim Santa Sofia', 83)]
+[('Jardim Santa Eliza ', 100), ('Jardim Santa Lucia ', 89)]
+('Jardim Santa Eliza ', 100)
+Jardim Santana
+[('Jardim Santana ', 100), ('Jardim Santarosa', 87), ('Jardim Santa Sofia', 81)]
+[('Jardim Santana ', 100), ('Jardim Santarosa', 86)]
+('Jardim Santana ', 100)
+Jardim Santo Antonio
+[('Jardim Santo Antônio ', 97), ('Jardim Santa Monica ', 77), ('Vila Santo Antônio ', 76)]
+[('Jardim Santo Antônio ', 95), ('Jardim Santa Monica ', 79)]
+('Jardim Santo Antônio ', 95)
+Jardim Sao Domingos
+[('Jardim São Domingos', 97), ('Jardim São José ', 75), ('Jardim São José ', 75)]
+[('Jardim São Domingos', 95), ('Jardim São José ', 73)]
+('Jardim São Domingos', 95)
+Jardim Sao Jose
+[('Jardim São José ', 93), ('Jardim São José ', 93), ('Jardim São Roque ', 80)]
+[('Jardim São José ', 87), ('Jardim São José ', 87)]
+('Jardim São José ', 87)
+Jardim Sao Luiz
+[('Jardim Santa Eliza ', 79), ('Jardim Santa Lucia ', 79), ('Jardim Luciani ', 76)]
+[('Jardim Santa Lucia ', 80), ('Jardim Santa Eliza ', 73)]
+('Jardim Santa Lucia ', 79)
+Jardim Sao Paulo
+[('Jardim São Paulo', 97), ('Jardim Paulistano ', 85), ('Jardim Paulista ', 84)]
+[('Jardim São Paulo', 94), ('Jardim Paulista ', 73)]
+('Jardim São Paulo', 94)
+Jardim Sao Pedro
+[('Jardim São Pedro ', 97), ('Jardim do Lago ', 80), ('Jardim São Roque ', 77)]
+[('Jardim São Pedro ', 94), ('Jardim São Roque ', 75)]
+('Jardim São Pedro ', 94)
+Jardim Sao Roque
+[('Jardim São Roque ', 97), ('Jardim São Pedro ', 77), ('Jardim Orquídeas', 77)]
+[('Jardim São Roque ', 94), ('Jardim São Pedro ', 75)]
+('Jardim São Roque ', 94)
+Jardim Sao Vito
+[('Jardim São Vito ', 97), ('Jardim Bela Vista ', 75), ('Jardim Bôer', 75)]
+[('Jardim São Vito ', 93), ('Jardim Bela Vista ', 73)]
+('Jardim São Vito ', 93)
+Jardim São Paulo
+[('Jardim São Paulo', 100), ('Jardim São José ', 82), ('Jardim São José ', 82)]
+[('Jardim São Paulo', 100), ('Jardim São José ', 73)]
+('Jardim São Paulo', 100)
+Jardim São Pedro
+[('Jardim São Pedro ', 100), ('Jardim São José ', 82), ('Jardim São José ', 82)]
+[('Jardim São Pedro ', 100), ('Jardim São José ', 73)]
+('Jardim São Pedro ', 100)
+Jardim São Roque
+[('Jardim São Roque ', 100), ('Jardim São José ', 82), ('Jardim São José ', 82)]
+[('Jardim São Roque ', 100), ('Jardim São José ', 80)]
+('Jardim São Roque ', 100)
+Jardim Terra America
+[('Jardim América ', 79), ('Jardim América ', 79), ('Jardim Nova Americana ', 78)]
+[('Jardim Nova Americana ', 80), ('Jardim América ', 64)]
+('Jardim Nova Americana ', 78)
+Jardim Terra America I
+[('Jardim Bôer', 75), ('Jardim América ', 74), ('Jardim América ', 74)]
+[('Jardim Bôer', 82), ('Jardim América ', 64)]
+('Jardim América ', 72)
+Jardim Terra America Ii
+[('Jardim Bôer', 75), ('Jardim Nova Americana ', 73), ('Jardim América ', 72)]
+[('Jardim Bôer', 82), ('Jardim Nova Americana ', 76)]
+('Jardim Nova Americana ', 73)
+Jardim Terramerica
+[('Jardim Terramérica', 97), ('Jardim América ', 84), ('Jardim América ', 84)]
+[('Jardim Terramérica', 94), ('Jardim América ', 64)]
+('Jardim Terramérica', 94)
+Jardim Terramerica 1
+[('Jardim Terramérica', 92), ('Jardim América ', 79), ('Jardim América ', 79)]
+[('Jardim Terramérica', 94), ('Jardim América ', 64)]
+('Jardim Terramérica', 89)
+Jardim Terramerica Ii
+[('Jardim Terramérica', 89), ('Jardim América ', 76), ('Jardim América ', 76)]
+[('Jardim Terramérica', 94), ('Jardim América ', 64)]
+('Jardim Terramérica', 87)
+Jardim Terramerica Iii
+[('Jardim Terramérica', 87), ('Jardim Bôer', 75), ('Jardim América ', 74)]
+[('Jardim Terramérica', 94), ('Jardim Bôer', 82)]
+('Jardim Terramérica', 85)
+Jardim Thelja
+[('Jardim Thelja ', 100), ('Jardim Helena ', 85), ('Jardim Bôer', 75)]
+[('Jardim Thelja ', 100), ('Jardim Helena ', 85)]
+('Jardim Thelja ', 100)
+Jardim Vera Cruz
+[('Jardim Primavera ', 75), ('Jardim Bôer', 75), ('Jardim Orquídeas', 71)]
+[('Jardim Bôer', 82), ('Jardim Primavera ', 69)]
+('Jardim Primavera ', 69)
+Jardim Vista Alegre
+[('Jardim Bela Vista ', 83), ('Recanto Vista Alegre ', 77), ('Jardim Paulista ', 76)]
+[('Recanto Vista Alegre ', 74), ('Jardim Paulista ', 73)]
+('Recanto Vista Alegre ', 72)
+Jardom Bertoni
+[('Jardim Bertoni ', 93), ('Jardim Bôer', 75), ('Jardim Brasil ', 67)]
+[('Jardim Bertoni ', 93), ('Jardim Bôer', 82)]
+('Jardim Bertoni ', 93)
+Jd Alvorada
+[('Jardim Alvorada ', 85), ('Jardim da Balsa', 62), ('Jardim Florbela', 54)]
+[('Jardim Alvorada ', 82), ('Jardim Florbela', 55)]
+('Jardim Alvorada ', 85)
+Jd America
+[('Jardim América ', 78), ('Jardim América ', 78), ('Jardim Nova Americana ', 65)]
+[('Jardim Nova Americana ', 80), ('Jardim América ', 70)]
+('Jardim América ', 75)
+Jd America 2
+[('Jardim América ', 72), ('Jardim América ', 72), ('Jardim Nova Americana ', 61)]
+[('Jardim América ', 67), ('Jardim América ', 67)]
+('Jardim América ', 69)
+Jd America Ii
+[('Jardim América ', 69), ('Jardim América ', 69), ('Jardim Nova Americana ', 59)]
+[('Jardim América ', 64), ('Jardim América ', 64)]
+('Jardim América ', 67)
+Jd Balsa 2
+[('Jardim da Balsa', 72), ('Jardim Brasília ', 58), ('Jardim Amélia ', 55)]
+[('Jardim da Balsa', 78), ('Jardim Brasília ', 50)]
+('Jardim da Balsa', 64)
+Jd Bela Vista
+[('Jardim Bela Vista ', 87), ('Vila Bela', 73), ('Jardim Santa Eliza ', 65)]
+[('Jardim Bela Vista ', 85), ('Jardim Santa Eliza ', 46)]
+('Jardim Bela Vista ', 87)
+Jd Bertoni
+[('Jardim Bertoni ', 83), ('Vila Bertini', 64), ('Jardim Bôer', 60)]
+[('Jardim Bertoni ', 80), ('Vila Bertini', 70)]
+('Jardim Bertoni ', 83)
+Jd Boer
+[('Industrial Sigisfredo Boer ', 73), ('Jardim Bôer', 71), ('Jardim Bertoni ', 57)]
+[('Industrial Sigisfredo Boer ', 86), ('Jardim Bôer', 57)]
+('Jardim Bôer', 67)
+Jd Boher
+[('Jardim Bôer', 67), ('Jardim Bertoni ', 55), ('Jardim Brasil ', 48)]
+[('Jardim Bôer', 62), ('Jardim Bertoni ', 62)]
+('Jardim Bôer', 63)
+Jd Brasil
+[('Jardim Brasil ', 82), ('Jardim Pau Brasil', 80), ('Jardim Brasília ', 70)]
+[('Jardim Brasil ', 78), ('Jardim Pau Brasil', 78)]
+('Jardim Brasil ', 82)
+Jd Brasilia
+[('Jardim Brasília ', 80), ('Jardim Brasil ', 75), ('Jardim Pau Brasil', 64)]
+[('Jardim Brasília ', 73), ('Jardim Brasil ', 73)]
+('Jardim Brasília ', 77)
+Jd Colina
+[('Jardim Colina ', 82), ('Jardim Portal da Colina ', 80), ('Jardim Amélia ', 57)]
+[('Jardim Portal da Colina ', 89), ('Jardim Colina ', 78)]
+('Jardim Colina ', 82)
+Jd Da Balsa
+[('Jardim da Balsa', 85), ('Jardim Alvorada ', 62), ('Bosque da Saúde ', 56)]
+[('Jardim da Balsa', 82), ('Bosque da Saúde ', 55)]
+('Jardim da Balsa', 85)
+Jd Da Paz
+[('Jardim da Paz ', 82), ('Jardim Da Mata', 61), ('Jardim Dona Rosa ', 56)]
+[('Jardim da Paz ', 78), ('Jardim Da Mata', 56)]
+('Jardim da Paz ', 82)
+Jd Das Orquideas
+[('Jardim Orquídeas', 71), ('Parque das Nações', 58), ('Jardim dos Lírios ', 56)]
+[('Jardim Orquídeas', 69), ('Jardim dos Lírios ', 50)]
+('Jardim Orquídeas', 69)
+Jd Do Lago
+[('Jardim do Lago ', 83), ('Bairro da Lagoa ', 64), ('Jardim dos Lírios ', 62)]
+[('Jardim do Lago ', 80), ('Bairro da Lagoa ', 70)]
+('Jardim do Lago ', 83)
+Jd Dos Lirios
+[('Jardim dos Lírios ', 83), ('Jardim dos Pinheiros', 67), ('Jardim Dona Rosa ', 62)]
+[('Jardim dos Lírios ', 77), ('Jardim dos Pinheiros', 62)]
+('Jardim dos Lírios ', 80)
+Jd Elizandra
+[('Jardim Esplanada ', 64), ('Jardim Lizandra', 59), ('Jardim Colina ', 56)]
+[('Jardim Lizandra', 83), ('Jardim Esplanada ', 58)]
+('Jardim Lizandra', 81)
+Jd Europa
+[('Jardim Bôer', 53), ('Jardim Bertoni ', 52), ('Jardim Esperança', 50)]
+[('Jardim Bôer', 44), ('Jardim Bertoni ', 44)]
+('Jardim Bertoni ', 52)
+Jd Girassol
+[('Jardim Girassol ', 85), ('Chácara Girassol ', 84), ('Jardim Brasil ', 58)]
+[('Jardim Girassol ', 82), ('Chácara Girassol ', 82)]
+('Jardim Girassol ', 85)
+Jd Gloria
+[('Jardim Glória ', 76), ('Jardim Alvorada ', 58), ('Jardim Florbela', 58)]
+[('Jardim Glória ', 67), ('Jardim Alvorada ', 56)]
+('Jardim Glória ', 73)
+Jd Guanabara
+[('Jardim Guanabara ', 86), ('Jardim Esplanada ', 50), ('Jardim Glória ', 50)]
+[('Jardim Guanabara ', 83), ('Jardim Esplanada ', 42)]
+('Jardim Guanabara ', 86)
+Jd Helena
+[('Jardim Helena ', 82), ('Jardim Esperança', 58), ('Jardim Esplanada ', 56)]
+[('Jardim Helena ', 78), ('Jardim Esplanada ', 56)]
+('Jardim Helena ', 82)
+Jd Imperador
+[('Jardim Imperador', 86), ('Jardim São Pedro ', 52), ('Jardim Esperança', 52)]
+[('Jardim Imperador', 83), ('Jardim Esperança', 58)]
+('Jardim Imperador', 86)
+Jd Ipiranga
+[('Jardim Ipiranga ', 85), ('Jardim Esperança', 62), ('Jardim Esplanada ', 52)]
+[('Jardim Ipiranga ', 82), ('Jardim Esperança', 55)]
+('Jardim Ipiranga ', 85)
+Jd Lizandra
+[('Jardim Lizandra', 85), ('Jardim Mirandola', 59), ('Jardim Luciani ', 56)]
+[('Jardim Lizandra', 82), ('Jardim Mirandola', 55)]
+('Jardim Lizandra', 85)
+Jd Marcia Cristina
+[('Jardim Maria Cristina ', 87), ('Jardim Colina ', 58), ('Jardim Brasília ', 56)]
+[('Jardim Maria Cristina ', 89), ('Jardim Colina ', 54)]
+('Jardim Maria Cristina ', 87)
+Jd Marta
+[('Jardim Da Mata', 64), ('Jardim Primavera ', 58), ('Jardim Miriam', 57)]
+[('Jardim Da Mata', 75), ('Jardim Primavera ', 50)]
+('Jardim Da Mata', 64)
+Jd Mirandola
+[('Jardim Mirandola', 86), ('Morada do Sol ', 64), ('Jardim Lizandra', 59)]
+[('Jardim Mirandola', 83), ('Jardim Lizandra', 58)]
+('Jardim Mirandola', 86)
+Jd N Horizonte
+[('Jardim Novo Horizonte', 80), ('Jardim Nova Americana ', 46), ('Jardim Colina ', 44)]
+[('Jardim Novo Horizonte', 79), ('Jardim Colina ', 46)]
+('Jardim Novo Horizonte', 80)
+Jd N S Carmo
+[('Jardim Nossa Senhora do Carmo', 59), ('Jardim São José ', 56), ('Jardim São José ', 56)]
+[('Jardim Nossa Senhora do Carmo', 58), ('Jardim São José ', 42)]
+('Jardim Nossa Senhora do Carmo', 59)
+Jd N S De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 67), ('Industrial Nossa Senhora De Fátima ', 57), ('Jardim São José ', 48)]
+[('Jardim Nossa Senhora de Fátima  ', 62), ('Industrial Nossa Senhora De Fátima ', 62)]
+('Jardim Nossa Senhora de Fátima  ', 65)
+Jd Nielsen Ville
+[('Vila Dainese ', 64), ('Vila Jones', 62), ('Residencial Nilsen Ville ', 60)]
+[('Residencial Nilsen Ville ', 81), ('Vila Dainese ', 42)]
+('Residencial Nilsen Ville ', 70)
+Jd Nossa Senhora De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 91), ('Industrial Nossa Senhora De Fátima ', 81), ('Jardim Nossa Senhora Aparecida', 71)]
+[('Jardim Nossa Senhora de Fátima  ', 88), ('Industrial Nossa Senhora De Fátima ', 88)]
+('Jardim Nossa Senhora de Fátima  ', 89)
+Jd Nossa Senhora Do Carmo
+[('Jardim Nossa Senhora do Carmo', 94), ('Jardim Nossa Senhora Aparecida', 73), ('Industrial Nossa Senhora De Fátima ', 68)]
+[('Jardim Nossa Senhora do Carmo', 92), ('Jardim Nossa Senhora Aparecida', 76)]
+('Jardim Nossa Senhora do Carmo', 93)
+Jd Nossa Sr Apareci
+[('Jardim Nossa Senhora Aparecida', 78), ('Jardim Nossa Senhora de Fátima  ', 58), ('Jardim Nossa Senhora do Carmo', 58)]
+[('Jardim Nossa Senhora Aparecida', 74), ('Jardim Nossa Senhora de Fátima  ', 58)]
+('Jardim Nossa Senhora Aparecida', 78)
+Jd Novo Horizonte
+[('Jardim Novo Horizonte', 90), ('Jardim Nova Americana ', 53), ('Parque Novo Mundo ', 47)]
+[('Jardim Novo Horizonte', 88), ('Jardim Nova Americana ', 53)]
+('Jardim Novo Horizonte', 89)
+Jd Nsra De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 70), ('Industrial Nossa Senhora De Fátima ', 60), ('Jardim Santa Eliza ', 51)]
+[('Jardim Nossa Senhora de Fátima  ', 71), ('Industrial Nossa Senhora De Fátima ', 71)]
+('Jardim Nossa Senhora de Fátima  ', 68)
+Jd Paulista
+[('Jardim Paulista ', 85), ('Jardim Paulistano ', 79), ('Jardim São Paulo', 62)]
+[('Jardim Paulista ', 82), ('Jardim Paulistano ', 82)]
+('Jardim Paulista ', 85)
+Jd Paulistano
+[('Jardim Paulistano ', 87), ('Jardim Paulista ', 79), ('Jardim São Paulo', 64)]
+[('Jardim Paulistano ', 85), ('Jardim Paulista ', 77)]
+('Jardim Paulistano ', 87)
+Jd Paz
+[('Jardim da Paz ', 67), ('Jardim Paulista ', 48), ('Jardim Planalto', 48)]
+[('Jardim da Paz ', 83), ('Jardim Paulista ', 50)]
+('Jardim da Paz ', 63)
+Jd Progresso
+[('Jardim Progresso ', 86), ('Jardim São Pedro ', 59), ('Jardim São Roque ', 59)]
+[('Jardim Progresso ', 83), ('Jardim São Pedro ', 42)]
+('Jardim Progresso ', 86)
+Jd Recanto
+[('Jardim Recanto ', 83), ('Recanto Jatobá ', 82), ('Recanto Vista Alegre ', 82)]
+[('Jardim Recanto ', 80), ('Recanto Jatobá ', 70)]
+('Jardim Recanto ', 83)
+Jd Santa Eliza
+[('Jardim Santa Eliza ', 88), ('Vila Santa Julia', 67), ('Jardim Bela Vista ', 65)]
+[('Jardim Santa Eliza ', 86), ('Vila Santa Julia', 74)]
+('Jardim Santa Eliza ', 88)
+Jd Santana
+[('Jardim Santana ', 83), ('Jardim Santarosa', 69), ('Jardim Santa Sofia', 64)]
+[('Jardim Santana ', 80), ('Jardim Santarosa', 70)]
+('Jardim Santana ', 83)
+Jd Sao Paulo
+[('Jardim São Paulo', 81), ('Jardim Paulistano ', 69), ('Jardim Paulista ', 67)]
+[('Jardim São Paulo', 75), ('Jardim Paulistano ', 58)]
+('Jardim São Paulo', 79)
+Jd Sao Pedro
+[('Jardim São Pedro ', 81), ('São Jerônimo', 64), ('Vila São Pedro ', 64)]
+[('Jardim São Pedro ', 75), ('Vila São Pedro ', 75)]
+('Jardim São Pedro ', 79)
+Jd Sao Roque
+[('Jardim São Roque ', 81), ('Jardim São Pedro ', 59), ('Jardim Orquídeas', 59)]
+[('Jardim São Roque ', 75), ('Jardim Orquídeas', 58)]
+('Jardim São Roque ', 79)
+Jd Sta Sofia
+[('Jardim Santa Sofia', 80), ('Jardim Santa Monica ', 65), ('Jardim Santa Lucia ', 60)]
+[('Jardim Santa Sofia', 83), ('Jardim Santa Monica ', 58)]
+('Jardim Santa Sofia', 80)
+Jd São Domingos
+[('Fazenda São Domingos', 88), ('Jardim São Domingos', 88), ('Morada do Sol ', 59)]
+[('Fazenda São Domingos', 93), ('Jardim São Domingos', 87)]
+('Jardim São Domingos', 88)
+Jd São Paulo
+[('Jardim São Paulo', 85), ('Jardim Paulistano ', 64), ('Jardim São Pedro ', 62)]
+[('Jardim São Paulo', 83), ('Jardim São Pedro ', 67)]
+('Jardim São Paulo', 86)
+Jd São Pedro
+[('Jardim São Pedro ', 85), ('Vila São Pedro ', 84), ('São Jerônimo', 67)]
+[('Jardim São Pedro ', 83), ('Vila São Pedro ', 83)]
+('Jardim São Pedro ', 86)
+Jd Terra America
+[('Jardim Nova Americana ', 65), ('Jardim América ', 62), ('Jardim América ', 62)]
+[('Jardim Nova Americana ', 69), ('Jardim América ', 57)]
+('Jardim Nova Americana ', 65)
+Jd Terra America I
+[('Jardim Nova Americana ', 62), ('Iate Clube Americana ', 58), ('Jardim América ', 58)]
+[('Jardim Nova Americana ', 61), ('Jardim América ', 57)]
+('Jardim Nova Americana ', 62)
+Jd Terramerica
+[('Jardim Terramérica', 84), ('Jardim Primavera ', 53), ('Jardim Miriam', 52)]
+[('Jardim Terramérica', 79), ('Jardim Primavera ', 50)]
+('Jardim Terramérica', 81)
+Jd Tripoli
+[('Jardim Trípoli ', 78), ('Vila Trevisoli', 50), ('Jardim Paulista ', 48)]
+[('Jardim Trípoli ', 70), ('Vila Trevisoli', 70)]
+('Jardim Trípoli ', 75)
+Jd Werner Plaas
+[('Werner Plass', 81), ('Loteamento Industrial Jardim Werner Plass ', 57), ('Jardim Lizandra', 47)]
+[('Werner Plass', 92), ('Loteamento Industrial Jardim Werner Plass ', 80)]
+('Werner Plass', 81)
+Jd. Boer
+[('Industrial Sigisfredo Boer ', 73), ('Jardim Bôer', 71), ('Jardim Bertoni ', 57)]
+[('Industrial Sigisfredo Boer ', 75), ('Jardim Bôer', 62)]
+('Jardim Bôer', 63)
+Jd. Da Paz
+[('Jardim da Paz ', 82), ('Jardim Da Mata', 61), ('Jardim Dona Rosa ', 56)]
+[('Jardim da Paz ', 80), ('Jardim Da Mata', 60)]
+('Jardim da Paz ', 78)
+Jd. Danfer
+[('Cidade Jardim ', 55), ('Jardim Das Flores ', 54), ('Jardim Bôer', 53)]
+[('Jardim Das Flores ', 50), ('Cidade Jardim ', 40)]
+('Jardim Das Flores ', 52)
+Jd. Guanabara
+[('Jardim Guanabara ', 86), ('Jardim Esplanada ', 50), ('Jardim Glória ', 50)]
+[('Jardim Guanabara ', 85), ('Jardim Esplanada ', 46)]
+('Jardim Guanabara ', 83)
+Jd. Sao Paulo
+[('Jardim São Paulo', 81), ('Jardim Paulistano ', 69), ('Jardim Paulista ', 67)]
+[('Jardim São Paulo', 77), ('Jardim Paulistano ', 54)]
+('Jardim São Paulo', 76)
+Jd. Terramerica I
+[('Jardim Terramérica', 79), ('Jardim Primavera ', 50), ('Jardim Maria Cristina ', 49)]
+[('Jardim Terramérica', 75), ('Jardim Maria Cristina ', 53)]
+('Jardim Terramérica', 74)
+Jd.Letonia
+[('Chácara Letônia ', 61), ('Jardim Trípoli ', 52), ('Jardim Mollon ', 52)]
+[('Chácara Letônia ', 70), ('Jardim Mollon ', 50)]
+('Chácara Letônia ', 56)
+Jd: Da Paz
+[('Jardim da Paz ', 82), ('Jardim Da Mata', 61), ('Jardim Dona Rosa ', 56)]
+[('Jardim da Paz ', 80), ('Jardim Da Mata', 60)]
+('Jardim da Paz ', 78)
+Jdsantana
+[('Jardim Santana ', 78), ('Jardim Santarosa', 64), ('Jardim Santa Sofia', 59)]
+[('Jardim Santana ', 78), ('Jardim Santarosa', 67)]
+('Jardim Santana ', 78)
+Jdsao Pedro
+[('Jardim São Pedro ', 77), ('Vila São Pedro ', 67), ('Parque Dom Pedro II', 62)]
+[('Jardim São Pedro ', 73), ('Vila São Pedro ', 73)]
+('Jardim São Pedro ', 74)
+Jrd Sao Paulo
+[('Jardim São Paulo', 86), ('Jardim Paulistano ', 73), ('Jardim Paulista ', 71)]
+[('Jardim São Paulo', 77), ('Jardim Paulistano ', 62)]
+('Jardim São Paulo', 83)
+Juca Miguel
+[('Chácara Rodrigues', 52), ('Chácara Rodrigues', 52), ('Vila Nura ', 50)]
+[('Chácara Rodrigues', 55), ('Chácara Rodrigues', 55)]
+('Chácara Rodrigues', 50)
+Klavin
+[('Vila Bela', 53), ('Vila Elvira ', 47), ('Vila Vitória', 47)]
+[('Vila Vitória', 67), ('Vila Elvira ', 50)]
+('Vila Elvira ', 47)
+Letonia
+[('Chácara Letônia ', 60), ('Vila Medon ', 59), ('Vila Molon', 59)]
+[('Chácara Letônia ', 86), ('Vila Medon ', 50)]
+('Chácara Letônia ', 55)
+Loteamento Industrial Machadinho
+[('Parque Industrial Machadinho ', 86), ('Loteamento Industrial Distrito Abdo Najar', 79), ('Loteamento Industrial Jardim Werner Plass ', 79)]
+[('Parque Industrial Machadinho ', 86), ('Loteamento Industrial Distrito Abdo Najar', 78)]
+('Parque Industrial Machadinho ', 80)
+Loteamento Residencial Jardim Dos Pinheiros
+[('Jardim dos Pinheiros', 100), ('Jardim dos Lírios ', 77), ('Residencial Jacyra ', 76)]
+[('Jardim dos Pinheiros', 100), ('Residencial Jacyra ', 83)]
+('Jardim dos Pinheiros', 63)
+Loteamento Residencial Jardim Jacyra
+[('Jardim Jacyra ', 100), ('Residencial Jacyra ', 100), ('Jacyra IP ', 80)]
+[('Jardim Jacyra ', 100), ('Residencial Jacyra ', 83)]
+('Residencial Jacyra ', 67)
+Loteamento Residencial Jardim Villagio
+[('Jardim Villagio', 100), ('Residencial Jacyra ', 76), ('Jardim Bôer', 75)]
+[('Jardim Villagio', 100), ('Residencial Jacyra ', 83)]
+('Jardim Villagio', 57)
+Machadinho
+[('Chácara Machadinho ', 100), ('Fazenda Machadinho ', 100), ('Parque Industrial Machadinho ', 100)]
+[('Chácara Machadinho ', 100), ('Fazenda Machadinho ', 100)]
+('Chácara Machadinho ', 71)
+Marajoara
+[('Vila Mariana', 57), ('Jardim América ', 55), ('Jardim América ', 55)]
+[('Vila Mariana', 56), ('Jardim América ', 44)]
+('Vila Mariana', 48)
+Mario Covas
+[('Jardim Mario Covas', 100), ('Camargo ', 67), ('Jardim Colina ', 58)]
+[('Jardim Mario Covas', 100), ('Camargo ', 57)]
+('Jardim Mario Covas', 76)
+Mathiensen
+[('Vila Mathiensen ', 100), ('Catharina Zanaga ', 46), ('Boa Esperança', 45)]
+[('Vila Mathiensen ', 100), ('Catharina Zanaga ', 50)]
+('Vila Mathiensen ', 80)
+Mirandola
+[('Jardim Mirandola', 100), ('Vila Mariana', 57), ('São Manoel', 56)]
+[('Jardim Mirandola', 100), ('São Manoel', 59)]
+('Jardim Mirandola', 72)
+Mollon
+[('Jardim Mollon ', 100), ('Vila Molon', 62), ('São Manoel', 53)]
+[('Jardim Mollon ', 100), ('Vila Molon', 83)]
+('Jardim Mollon ', 63)
+Monte Carlo
+[('Monte Carlo ', 100), ('Campo Limpo', 55), ('Chácara Mantovani ', 52)]
+[('Monte Carlo ', 100), ('Campo Limpo', 45)]
+('Monte Carlo ', 100)
+Morada Do Sol
+[('Morada do Sol ', 100), ('Fazenda São Domingos', 62), ('Jardim São Domingos', 58)]
+[('Morada do Sol ', 100), ('Fazenda São Domingos', 54)]
+('Morada do Sol ', 100)
+Morado Do Sol
+[('Morada do Sol ', 92), ('Praia dos Namorados ', 62), ('Jardim São Domingos', 58)]
+[('Morada do Sol ', 92), ('Praia dos Namorados ', 54)]
+('Morada do Sol ', 92)
+Nardini
+[('Parque Residencial Nardini ', 100), ('Jardim Luciani ', 57), ('Jardim Melinski ', 55)]
+[('Parque Residencial Nardini ', 100), ('Jardim Luciani ', 57)]
+('Jardim Luciani ', 57)
+Nielsen Ville
+[('Residencial Nilsen Ville ', 65), ('Vila Dainese ', 64), ('Vila Mathiensen ', 64)]
+[('Residencial Nilsen Ville ', 92), ('Vila Dainese ', 42)]
+('Residencial Nilsen Ville ', 65)
+Nossa Senhora De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 85), ('Industrial Nossa Senhora De Fátima ', 82), ('Jardim Nossa Senhora do Carmo', 73)]
+[('Jardim Nossa Senhora de Fátima  ', 96), ('Industrial Nossa Senhora De Fátima ', 96)]
+('Jardim Nossa Senhora de Fátima  ', 83)
+Nossa Senhora Do Carmo
+[('Jardim Nossa Senhora do Carmo', 100), ('Industrial Nossa Senhora De Fátima ', 74), ('Jardim Nossa Senhora Aparecida', 74)]
+[('Jardim Nossa Senhora do Carmo', 100), ('Industrial Nossa Senhora De Fátima ', 77)]
+('Jardim Nossa Senhora do Carmo', 86)
+Nova Americana
+[('Jardim Nova Americana ', 100), ('Vila Nova Americana ', 100), ('Iate Clube Americana ', 78)]
+[('Jardim Nova Americana ', 100), ('Vila Nova Americana ', 100)]
+('Vila Nova Americana ', 85)
+Nova Carioba
+[('Carioba ', 100), ('Parque Nova Carioba ', 100), ('Cariobinha ', 73)]
+[('Carioba ', 100), ('Parque Nova Carioba ', 100)]
+('Parque Nova Carioba ', 77)
+Nova Esperança
+[('Boa Esperança', 88), ('Jardim Esperança', 76), ('Vila Nova Americana ', 62)]
+[('Boa Esperança', 92), ('Jardim Esperança', 71)]
+('Boa Esperança', 89)
+Novo Mundo
+[('Parque Novo Mundo ', 100), ('Jardim Novo Paraíso', 57), ('Jardim Novo Horizonte', 57)]
+[('Parque Novo Mundo ', 100), ('Jardim Novo Horizonte', 60)]
+('Parque Novo Mundo ', 74)
+P Gramado
+[('Parque Gramado', 88), ('Chácara Machado ', 52), ('Camargo ', 50)]
+[('Parque Gramado', 89), ('Camargo ', 62)]
+('Parque Gramado', 78)
+Paraiso
+[('Vila Paraíso ', 67), ('Carioba ', 57), ('Chácara Girassol ', 55)]
+[('Vila Paraíso ', 86), ('Carioba ', 57)]
+('Vila Paraíso ', 63)
+Paraíso
+[('Jardim Novo Paraíso', 100), ('Vila Paraíso ', 100), ('Remanso Azul', 56)]
+[('Jardim Novo Paraíso', 100), ('Vila Paraíso ', 100)]
+('Vila Paraíso ', 74)
+Parque Avenida
+[('Parque Ideal ', 77), ('Parque Primavera ', 73), ('Parque das Nações', 69)]
+[('Parque Primavera ', 71), ('Parque das Nações', 71)]
+('Parque Primavera ', 73)
+Parque Da Liberdade
+[('Parque da Liberdade', 100), ('Parque das Nações', 71), ('Parque Ideal ', 67)]
+[('Parque da Liberdade', 100), ('Parque Ideal ', 83)]
+('Parque da Liberdade', 100)
+Parque Das Nacoes
+[('Parque das Nações', 94), ('Parque Das Mangueiras ', 74), ('Parque Ideal ', 67)]
+[('Parque das Nações', 88), ('Parque Das Mangueiras ', 76)]
+('Parque das Nações', 88)
+Parque Das Naçoes
+[('Parque das Nações', 97), ('Parque Das Mangueiras ', 77), ('Parque da Liberdade', 69)]
+[('Parque das Nações', 94), ('Parque Das Mangueiras ', 76)]
+('Parque das Nações', 94)
+Parque Das Nações
+[('Parque das Nações', 100), ('Parque Das Mangueiras ', 80), ('Parque da Liberdade', 71)]
+[('Parque das Nações', 100), ('Parque Das Mangueiras ', 76)]
+('Parque das Nações', 100)
+Parque Dom Pedro
+[('Parque Dom Pedro II', 100), ('Parque Gramado', 67), ('Parque Ideal ', 67)]
+[('Parque Dom Pedro II', 100), ('Parque Ideal ', 67)]
+('Parque Dom Pedro II', 91)
+Parque Dom Pedro Ii
+[('Parque Dom Pedro II', 100), ('Parque Ideal ', 67), ('Parque da Liberdade', 63)]
+[('Parque Dom Pedro II', 100), ('Parque Ideal ', 67)]
+('Parque Dom Pedro II', 100)
+Parque Gramado
+[('Parque Gramado', 100), ('Parque Ideal ', 67), ('Parque Primavera ', 67)]
+[('Parque Gramado', 100), ('Parque Primavera ', 71)]
+('Parque Gramado', 100)
+Parque Hastecac
+[('Parque Ideal ', 67), ('Parque das Nações', 67), ('Parque Primavera ', 65)]
+[('Parque Ideal ', 67), ('Parque das Nações', 67)]
+('Parque Ideal ', 67)
+Parque Liberdade
+[('Parque da Liberdade', 100), ('Parque Ideal ', 71), ('Parque Primavera ', 69)]
+[('Parque da Liberdade', 81), ('Parque Ideal ', 75)]
+('Parque da Liberdade', 91)
+Parque Nova Carioba
+[('Carioba ', 100), ('Parque Nova Carioba ', 100), ('Parque Primavera ', 69)]
+[('Carioba ', 100), ('Parque Nova Carioba ', 100)]
+('Parque Nova Carioba ', 100)
+Parque Novo Mundo
+[('Parque Novo Mundo ', 100), ('Parque Ideal ', 67), ('Parque Nova Carioba ', 67)]
+[('Parque Novo Mundo ', 100), ('Parque Nova Carioba ', 71)]
+('Parque Novo Mundo ', 100)
+Parque Primavera
+[('Parque Primavera ', 100), ('Jardim Primavera ', 75), ('Parque Ideal ', 71)]
+[('Parque Primavera ', 100), ('Jardim Primavera ', 75)]
+('Parque Primavera ', 100)
+Parque Res Jaguari
+[('Parque Residencial Jaguari ', 88), ('Jardim São Roque ', 67), ('Parque Ideal ', 67)]
+[('Parque Ideal ', 67), ('Parque Residencial Jaguari ', 61)]
+('Parque Residencial Jaguari ', 82)
+Parque Residencial
+[('Parque Residencial São Jerônimo ', 100), ('Parque Residencial Boa Vista ', 100), ('Parque Residencial Jaguari ', 100)]
+[('Parque Residencial São Jerônimo ', 100), ('Parque Residencial Boa Vista ', 100)]
+('Parque Residencial Boa Vista ', 78)
+Parque Residencial Jaguari
+[('Parque Residencial Jaguari ', 100), ('Parque Residencial Nardini ', 85), ('Parque Residencial Tancredi ', 83)]
+[('Parque Residencial Jaguari ', 100), ('Parque Residencial Nardini ', 85)]
+('Parque Residencial Jaguari ', 100)
+Parque Residencial Tancredi
+[('Parque Residencial Tancredi ', 100), ('Parque Residencial Nardini ', 87), ('Parque Residencial Jaguari ', 83)]
+[('Parque Residencial Tancredi ', 100), ('Parque Residencial Nardini ', 85)]
+('Parque Residencial Tancredi ', 100)
+Parque Residencial Zabani
+[('Parque Residencial Jaguari ', 86), ('Parque Residencial Nardini ', 86), ('Parque Residencial Tancredi ', 85)]
+[('Parque Residencial Jaguari ', 84), ('Parque Residencial Nardini ', 84)]
+('Parque Residencial Jaguari ', 86)
+Parque Sao Jeronimo
+[('Parque Residencial São Jerônimo ', 75), ('Jardim São Roque ', 71), ('São Jerônimo', 69)]
+[('São Jerônimo', 83), ('Parque Residencial São Jerônimo ', 63)]
+('Parque Residencial São Jerônimo ', 72)
+Parque São Jerônimo
+[('Parque Residencial São Jerônimo ', 100), ('São Jerônimo', 100), ('Jardim São Roque ', 75)]
+[('São Jerônimo', 100), ('Parque Residencial São Jerônimo ', 74)]
+('São Jerônimo', 77)
+Parque Universitario
+[('Parque Universitário ', 97), ('Parque Ideal ', 67), ('Parque Primavera ', 67)]
+[('Parque Universitário ', 95), ('Parque Ideal ', 75)]
+('Parque Universitário ', 95)
+Parque Universitário
+[('Parque Universitário ', 100), ('Parque Ideal ', 67), ('Parque Primavera ', 63)]
+[('Parque Universitário ', 100), ('Parque Ideal ', 75)]
+('Parque Universitário ', 100)
+Planalto Do Sol
+[('Jardim Planalto', 70), ('Morada do Sol ', 64), ('Jardim São Paulo', 60)]
+[('Morada do Sol ', 69), ('Jardim Planalto', 53)]
+('Morada do Sol ', 64)
+Planalto Sol
+[('Jardim Planalto', 80), ('São Manoel', 57), ('Vila Santo Antônio ', 55)]
+[('Jardim Planalto', 80), ('Vila Santo Antônio ', 50)]
+('Jardim Planalto', 59)
+Portal Dos Nobres
+[('Portal dos Nobres', 100), ('Praia dos Namorados ', 67), ('Parque das Nações', 56)]
+[('Portal dos Nobres', 100), ('Praia dos Namorados ', 65)]
+('Portal dos Nobres', 100)
+Pq Da Liberdade
+[('Parque da Liberdade', 89), ('Bosque da Saúde ', 55), ('Parque das Nações', 53)]
+[('Parque da Liberdade', 87), ('Bosque da Saúde ', 57)]
+('Parque da Liberdade', 88)
+Pq Das Nacoes
+[('Parque das Nações', 79), ('Portal dos Nobres', 60), ('Parque Das Mangueiras ', 59)]
+[('Parque das Nações', 69), ('Portal dos Nobres', 62)]
+('Parque das Nações', 73)
+Pq Das Naçoes
+[('Parque das Nações', 81), ('Portal dos Nobres', 62), ('Parque Das Mangueiras ', 61)]
+[('Parque das Nações', 77), ('Portal dos Nobres', 62)]
+('Parque das Nações', 80)
+Pq Dom Pedro
+[('Parque Dom Pedro II', 86), ('Jardim São Pedro ', 67), ('Vila São Pedro ', 64)]
+[('Parque Dom Pedro II', 83), ('Jardim São Pedro ', 67)]
+('Parque Dom Pedro II', 77)
+Pq Gramado
+[('Parque Gramado', 83), ('Chácara Machado ', 50), ('Campo Limpo', 48)]
+[('Parque Gramado', 80), ('Chácara Machado ', 60)]
+('Parque Gramado', 83)
+Pq Liberdade
+[('Parque da Liberdade', 86), ('Parque Ideal ', 50), ('Cidade Jardim ', 48)]
+[('Parque da Liberdade', 83), ('Parque Ideal ', 50)]
+('Parque da Liberdade', 77)
+Pq Machadinho
+[('Chácara Machadinho ', 87), ('Fazenda Machadinho ', 87), ('Parque Industrial Machadinho ', 87)]
+[('Chácara Machadinho ', 85), ('Fazenda Machadinho ', 85)]
+('Chácara Machadinho ', 71)
+Pq Monte Verde
+[('Campo Verde ', 64), ('Monte Carlo ', 62), ('Parque Novo Mundo ', 45)]
+[('Campo Verde ', 73), ('Monte Carlo ', 64)]
+('Campo Verde ', 64)
+Pq N Mundo
+[('Parque Novo Mundo ', 74), ('Parque Gramado', 50), ('Vila Medon ', 50)]
+[('Parque Novo Mundo ', 70), ('Parque Gramado', 40)]
+('Parque Novo Mundo ', 74)
+Pq Nossa Senhora Aparecida
+[('Jardim Nossa Senhora Aparecida', 94), ('Industrial Nossa Senhora De Fátima ', 67), ('Jardim Nossa Senhora de Fátima  ', 67)]
+[('Jardim Nossa Senhora Aparecida', 92), ('Industrial Nossa Senhora De Fátima ', 69)]
+('Jardim Nossa Senhora Aparecida', 86)
+Pq Nova Carioba
+[('Carioba ', 100), ('Parque Nova Carioba ', 89), ('Cariobinha ', 64)]
+[('Carioba ', 100), ('Parque Nova Carioba ', 87)]
+('Parque Nova Carioba ', 88)
+Pq Nova Cariobinha
+[('Cariobinha ', 100), ('Parque Nova Carioba ', 81), ('Vila Nova Americana ', 59)]
+[('Cariobinha ', 100), ('Parque Nova Carioba ', 80)]
+('Parque Nova Carioba ', 81)
+Pq Novo Mundo
+[('Parque Novo Mundo ', 87), ('Jardim Novo Paraíso', 52), ('Parque Nova Carioba ', 50)]
+[('Parque Novo Mundo ', 85), ('Jardim Novo Paraíso', 54)]
+('Parque Novo Mundo ', 87)
+Pq Novo Mundo Americana
+[('Parque Novo Mundo ', 74), ('Jardim Nova Americana ', 68), ('Vila Nova Americana ', 67)]
+[('Parque Novo Mundo ', 76), ('Vila Nova Americana ', 74)]
+('Vila Nova Americana ', 67)
+Pq Res Boa Vista
+[('Parque Residencial Boa Vista ', 73), ('Jardim Bela Vista ', 61), ('Vila Lourdes ', 57)]
+[('Parque Residencial Boa Vista ', 69), ('Jardim Bela Vista ', 62)]
+('Parque Residencial Boa Vista ', 73)
+Pq Res Jaguari
+[('Parque Residencial Jaguari ', 70), ('Jardim Progresso ', 60), ('Jardim São Pedro ', 55)]
+[('Parque Residencial Jaguari ', 64), ('Jardim Progresso ', 29)]
+('Parque Residencial Jaguari ', 70)
+Pq Sao Jeronimo
+[('São Jerônimo', 80), ('Parque Residencial São Jerônimo ', 64), ('Jardim São Pedro ', 60)]
+[('São Jerônimo', 83), ('Parque Residencial São Jerônimo ', 73)]
+('São Jerônimo', 74)
+Pq São Jeronimo
+[('São Jerônimo', 83), ('Jardim São Pedro ', 62), ('Jardim São Roque ', 62)]
+[('São Jerônimo', 92), ('Jardim São Pedro ', 59)]
+('São Jerônimo', 81)
+Pq Universitario
+[('Parque Universitário ', 86), ('Parque Residencial Tancredi ', 51), ('Parque Primavera ', 50)]
+[('Parque Universitário ', 81), ('Parque Residencial Tancredi ', 50)]
+('Parque Universitário ', 83)
+Pq. Da Liberdade
+[('Parque da Liberdade', 89), ('Bosque da Saúde ', 55), ('Parque das Nações', 53)]
+[('Parque da Liberdade', 88), ('Bosque da Saúde ', 53)]
+('Parque da Liberdade', 86)
+Pq. Liberdade.
+[('Parque da Liberdade', 86), ('Parque Ideal ', 50), ('Cidade Jardim ', 48)]
+[('Parque da Liberdade', 85), ('Parque Ideal ', 50)]
+('Parque da Liberdade', 81)
+Pq. Res. Jaguari
+[('Parque Residencial Jaguari ', 70), ('Jardim Progresso ', 60), ('Jardim São Pedro ', 55)]
+[('Parque Residencial Jaguari ', 56), ('Jardim Progresso ', 25)]
+('Parque Residencial Jaguari ', 67)
+Pq.Nova Carioba
+[('Carioba ', 100), ('Parque Nova Carioba ', 89), ('Cariobinha ', 64)]
+[('Carioba ', 100), ('Parque Nova Carioba ', 87)]
+('Parque Nova Carioba ', 88)
+Pqdas Nacoes
+[('Parque das Nações', 52), ('Cachoeira ', 48), ('Portal dos Nobres', 48)]
+[('Parque das Nações', 67), ('Portal dos Nobres', 58)]
+('Parque das Nações', 69)
+Pqnovo Mundo
+[('Parque Novo Mundo ', 69), ('São Manoel', 48), ('Parque Gramado', 46)]
+[('Parque Novo Mundo ', 83), ('São Manoel', 53)]
+('Parque Novo Mundo ', 83)
+Praia Azul
+[('Praia Azul ', 100), ('Praia dos Namorados ', 67), ('Residencial Praia dos Namorados ', 67)]
+[('Praia Azul ', 100), ('Praia dos Namorados ', 60)]
+('Praia Azul ', 100)
+Praia Namorados
+[('Praia dos Namorados ', 100), ('Residencial Praia dos Namorados ', 100), ('Praia Azul ', 67)]
+[('Praia dos Namorados ', 73), ('Residencial Praia dos Namorados ', 73)]
+('Praia dos Namorados ', 88)
+Profilurb
+[('Vila Paraíso ', 50), ('Vila São Pedro ', 45), ('Vila San Pietro ', 42)]
+[('Vila Paraíso ', 33), ('Vila São Pedro ', 33)]
+('Vila Paraíso ', 29)
+Profirlurb
+[('Vila Paraíso ', 48), ('Vila São Pedro ', 43), ('Área Rural', 42)]
+[('Área Rural', 40), ('Vila Paraíso ', 30)]
+('Área Rural', 40)
+Recanto
+[('Jardim Recanto ', 100), ('Recanto Jatobá ', 100), ('Recanto Vista Alegre ', 100)]
+[('Jardim Recanto ', 100), ('Recanto Jatobá ', 100)]
+('Jardim Recanto ', 67)
+Recanto Azul
+[('Remanso Azul', 83), ('Jardim Recanto ', 74), ('Recanto Jatobá ', 74)]
+[('Remanso Azul', 83), ('Recanto Jatobá ', 75)]
+('Remanso Azul', 83)
+Recanto Vista Alegre
+[('Recanto Vista Alegre ', 100), ('Recanto Jatobá ', 70), ('Jardim Recanto ', 67)]
+[('Recanto Vista Alegre ', 100), ('Recanto Jatobá ', 64)]
+('Recanto Vista Alegre ', 100)
+Remanso Azul
+[('Remanso Azul', 100), ('Praia Azul ', 64), ('Recanto Jatobá ', 56)]
+[('Remanso Azul', 100), ('Praia Azul ', 60)]
+('Remanso Azul', 100)
+Remanço Azul
+[('Remanso Azul', 96), ('Praia Azul ', 67), ('Recanto Jatobá ', 58)]
+[('Remanso Azul', 92), ('Praia Azul ', 60)]
+('Remanso Azul', 92)
+Res Boa Vista
+[('Parque Residencial Boa Vista ', 82), ('Jardim Bela Vista ', 67), ('Vila Lourdes ', 64)]
+[('Parque Residencial Boa Vista ', 77), ('Jardim Bela Vista ', 69)]
+('Jardim Bela Vista ', 67)
+Res Jaguari
+[('Parque Residencial Jaguari ', 78), ('Jardim São Roque ', 62), ('Jardim Orquídeas', 62)]
+[('Parque Residencial Jaguari ', 73), ('Jardim São Roque ', 36)]
+('Parque Residencial Jaguari ', 59)
+Res Mario Covas
+[('Jardim Mario Covas', 85), ('Jardim Dona Rosa ', 58), ('Jardim dos Lírios ', 58)]
+[('Jardim Mario Covas', 80), ('Jardim Dona Rosa ', 47)]
+('Jardim Mario Covas', 79)
+Res Nardini
+[('Parque Residencial Nardini ', 78), ('Jardim São Roque ', 62), ('Jardim Orquídeas', 62)]
+[('Parque Residencial Nardini ', 73), ('Jardim São Roque ', 36)]
+('Parque Residencial Nardini ', 59)
+Resid Vila Paineiras
+[('Residencial Vale Paineiras ', 78), ('Vila Dainese ', 69), ('Vila Grassi ', 65)]
+[('Vila Dainese ', 75), ('Residencial Vale Paineiras ', 70)]
+('Residencial Vale Paineiras ', 78)
+Residencial Furlan
+[('Residencial Jacyra ', 78), ('Residencial Santa Paula ', 78), ('Parque Residencial São Jerônimo ', 76)]
+[('Residencial Jacyra ', 78), ('Residencial Santa Paula ', 78)]
+('Residencial Jacyra ', 78)
+Residencial Imigrantes
+[('Residencial Jacyra ', 76), ('Residencial Lindarma ', 71), ('Residencial Vale Paineiras ', 71)]
+[('Residencial Jacyra ', 78), ('Residencial Lindarma ', 75)]
+('Residencial Lindarma ', 71)
+Residencial Jacyra
+[('Residencial Jacyra ', 100), ('Jacyra IP ', 80), ('Residencial Lindarma ', 79)]
+[('Residencial Jacyra ', 100), ('Jacyra IP ', 80)]
+('Residencial Jacyra ', 100)
+Residencial Jaguari
+[('Parque Residencial Jaguari ', 100), ('Residencial Jacyra ', 81), ('Parque Residencial Tancredi ', 74)]
+[('Parque Residencial Jaguari ', 100), ('Residencial Jacyra ', 83)]
+('Parque Residencial Jaguari ', 84)
+Residencial Vale Das Nogueiras
+[('Residencial Vale das Nogueiras', 100), ('Residencial Vale Paineiras ', 86), ('Residencial Jacyra ', 76)]
+[('Residencial Vale das Nogueiras', 100), ('Residencial Vale Paineiras ', 77)]
+('Residencial Vale das Nogueiras', 100)
+Resn Jacyra
+[('Jacyra IP ', 80), ('Residencial Jacyra ', 76), ('Fazenda Jacyra ', 72)]
+[('Fazenda Jacyra ', 82), ('Jacyra IP ', 80)]
+('Fazenda Jacyra ', 72)
+Riviera Tamborlim
+[('Riviera Tamborlim', 100), ('Balneário Riviera ', 67), ('Jardim Ipiranga ', 56)]
+[('Riviera Tamborlim', 100), ('Balneário Riviera ', 44)]
+('Riviera Tamborlim', 100)
+Rsidencial Nardini
+[('Parque Residencial Nardini ', 82), ('Residencial Lindarma ', 74), ('Residencial Jacyra ', 72)]
+[('Parque Residencial Nardini ', 94), ('Residencial Lindarma ', 78)]
+('Parque Residencial Nardini ', 82)
+S Jose Pr Azul
+[('Praia Azul ', 58), ('Remanso Azul', 54), ('Jardim São José ', 52)]
+[('Praia Azul ', 70), ('Remanso Azul', 50)]
+('Praia Azul ', 58)
+S Manoel
+[('São Manoel', 94), ('Sítio Maniçoba', 60), ('Salto Grande ', 50)]
+[('São Manoel', 88), ('Sítio Maniçoba', 62)]
+('São Manoel', 89)
+Santa Barbara
+[('Vila Santa Maria', 69), ('Chácara Santa Cruz', 67), ('Vila Santa Catarina', 62)]
+[('Vila Santa Maria', 75), ('Vila Santa Catarina', 69)]
+('Vila Santa Maria', 62)
+Santa Catarina
+[('Vila Santa Catarina', 100), ('Catharina Zanaga ', 80), ('Jardim Santa Monica ', 67)]
+[('Vila Santa Catarina', 100), ('Catharina Zanaga ', 57)]
+('Vila Santa Catarina', 85)
+Santa Cruz
+[('Chácara Santa Cruz', 100), ('Fazenda Santa Angélica', 67), ('Fazenda Santa Lúcia ', 67)]
+[('Chácara Santa Cruz', 100), ('Fazenda Santa Lúcia ', 70)]
+('Chácara Santa Cruz', 71)
+Santa Eliza
+[('Jardim Santa Eliza ', 100), ('Fazenda Santa Lúcia ', 69), ('Vila Santa Julia', 67)]
+[('Jardim Santa Eliza ', 100), ('Fazenda Santa Lúcia ', 82)]
+('Jardim Santa Eliza ', 76)
+Santa Ines
+[('Vila Santa Inês', 75), ('Chácara Santa Cruz', 67), ('Fazenda Santa Angélica', 67)]
+[('Vila Santa Inês', 90), ('Fazenda Santa Angélica', 70)]
+('Vila Santa Inês', 72)
+Santa Maria
+[('Vila Santa Maria', 100), ('Jardim Santana ', 72), ('Vila Santa Monica ', 71)]
+[('Vila Santa Maria', 100), ('Vila Santa Monica ', 73)]
+('Vila Santa Maria', 81)
+Santa Rita
+[('Vila Santa Maria', 69), ('Chácara Santa Cruz', 67), ('Fazenda Santa Angélica', 67)]
+[('Vila Santa Maria', 80), ('Chácara Santa Cruz', 70)]
+('Vila Santa Maria', 69)
+Santo Antonio
+[('Vila Santo Antônio ', 80), ('Jardim Santo Antônio ', 75), ('Loteamento Antonio Franciscangelis', 70)]
+[('Vila Santo Antônio ', 92), ('Jardim Santo Antônio ', 92)]
+('Vila Santo Antônio ', 77)
+Santo Antônio
+[('Jardim Santo Antônio ', 100), ('Vila Santo Antônio ', 100), ('Antônio Zanaga', 72)]
+[('Jardim Santo Antônio ', 100), ('Vila Santo Antônio ', 100)]
+('Vila Santo Antônio ', 84)
+Sao Benedito
+[('São Benedito', 96), ('São Jerônimo', 64), ('Balneário Salto Grande ', 55)]
+[('São Benedito', 92), ('São Jerônimo', 58)]
+('São Benedito', 92)
+Sao Domingos
+[('Fazenda São Domingos', 80), ('Jardim São Domingos', 80), ('São Manoel', 57)]
+[('Fazenda São Domingos', 92), ('Jardim São Domingos', 92)]
+('Jardim São Domingos', 71)
+Sao Fernanda
+[('Salto Grande ', 67), ('Fazenda Salto Grande ', 62), ('Fazenda Santo Ângelo', 58)]
+[('Salto Grande ', 67), ('Fazenda Salto Grande ', 67)]
+('Salto Grande ', 67)
+Sao Geronimo
+[('São Jerônimo', 82), ('São Benedito', 61), ('Salto Grande ', 58)]
+[('São Jerônimo', 75), ('São Benedito', 58)]
+('São Jerônimo', 75)
+Sao Jeronimo
+[('São Jerônimo', 91), ('Jardim São José ', 64), ('Jardim São José ', 64)]
+[('São Jerônimo', 83), ('Jardim São José ', 42)]
+('São Jerônimo', 83)
+Sao Jose
+[('São Manoel', 59), ('Jardim São José ', 57), ('Jardim São José ', 57)]
+[('Jardim São José ', 75), ('Jardim São José ', 75)]
+('Jardim São José ', 52)
+Sao Luiz
+[('São Luiz ', 93), ('São Manoel', 47), ('Jardim Santa Eliza ', 46)]
+[('São Luiz ', 88), ('Jardim Santa Eliza ', 62)]
+('São Luiz ', 88)
+Sao Manoel
+[('São Manoel', 95), ('Salto Grande ', 64), ('Sítio Maniçoba', 64)]
+[('São Manoel', 90), ('Salto Grande ', 60)]
+('São Manoel', 90)
+Sao Pedro
+[('Vila São Pedro ', 73), ('Jardim São Pedro ', 71), ('Parque Dom Pedro II', 71)]
+[('Vila São Pedro ', 89), ('Jardim São Pedro ', 89)]
+('Vila São Pedro ', 70)
+Sao Roque
+[('Jardim São Roque ', 71), ('Bosque da Saúde ', 61), ('Salto Grande ', 57)]
+[('Jardim São Roque ', 89), ('Salto Grande ', 56)]
+('Jardim São Roque ', 64)
+Sao Sebastiao
+[('Jardim São Sebastião', 65), ('Sítio Maniçoba', 64), ('Recanto Jatobá ', 54)]
+[('Jardim São Sebastião', 85), ('Recanto Jatobá ', 48)]
+('Jardim São Sebastião', 67)
+Sao Vito
+[('Jardim São Vito ', 67), ('Bairro Leitão ', 60), ('Vila Gallo ', 56)]
+[('Jardim São Vito ', 88), ('Bairro Leitão ', 62)]
+('Jardim São Vito ', 61)
+Sta Maria
+[('Vila Santa Maria', 72), ('Industrial Maria Criveloni Abrão ', 71), ('Jardim Maria Cristina ', 71)]
+[('Vila Santa Maria', 89), ('Industrial Maria Criveloni Abrão ', 78)]
+('Vila Santa Maria', 72)
+São Domingos
+[('Fazenda São Domingos', 100), ('Jardim São Domingos', 100), ('São Manoel', 60)]
+[('Fazenda São Domingos', 100), ('Jardim São Domingos', 100)]
+('Jardim São Domingos', 77)
+São Jeronimo
+[('São Jerônimo', 95), ('Jardim São José ', 67), ('Jardim São José ', 67)]
+[('São Jerônimo', 92), ('Jardim São José ', 60)]
+('São Jerônimo', 92)
+São Jose
+[('São Manoel', 62), ('Jardim São José ', 60), ('Jardim São José ', 60)]
+[('Jardim São José ', 88), ('Jardim São José ', 88)]
+('Jardim São José ', 61)
+São Luiz
+[('São Luiz ', 100), ('São Manoel', 50), ('São Jerônimo', 47)]
+[('São Luiz ', 100), ('São Manoel', 50)]
+('São Luiz ', 100)
+São Manoel
+[('São Manoel', 100), ('Sítio Maniçoba', 67), ('Salto Grande ', 57)]
+[('São Manoel', 100), ('Sítio Maniçoba', 60)]
+('São Manoel', 100)
+São Miguel
+[('São Manoel', 67), ('Fazenda São Domingos', 50), ('Jardim São Roque ', 50)]
+[('São Manoel', 70), ('Fazenda São Domingos', 70)]
+('São Manoel', 70)
+São Vitto
+[('Jardim São Vito ', 64), ('São Benedito', 63), ('São Jerônimo', 56)]
+[('Jardim São Vito ', 94), ('São Benedito', 44)]
+('Jardim São Vito ', 67)
+Terra America
+[('Jardim América ', 62), ('Jardim América ', 62), ('Iate Clube Americana ', 61)]
+[('Iate Clube Americana ', 69), ('Jardim América ', 62)]
+('Iate Clube Americana ', 61)
+Terra America 2
+[('Iate Clube Americana ', 57), ('Jardim América ', 57), ('Jardim América ', 57)]
+[('Iate Clube Americana ', 60), ('Jardim América ', 57)]
+('Iate Clube Americana ', 57)
+Terra America I
+[('Iate Clube Americana ', 63), ('Jardim Nova Americana ', 61), ('Vila Nova Americana ', 59)]
+[('Iate Clube Americana ', 60), ('Jardim Nova Americana ', 60)]
+('Iate Clube Americana ', 57)
+Terramérica Iii
+[('Jardim Terramérica', 83), ('Riviera Tamborlim', 52), ('Vila Vitória', 48)]
+[('Jardim Terramérica', 85), ('Vila Vitória', 42)]
+('Jardim Terramérica', 67)
+Terras De Santa Barbara
+[('Vila Santa Catarina', 57), ('Jardim Santarosa', 56), ('Vila Santa Maria', 56)]
+[('Vila Santa Catarina', 63), ('Vila Santa Maria', 62)]
+('Vila Santa Catarina', 57)
+V Das Nogueiras
+[('Residencial Vale das Nogueiras', 93), ('Parque Das Mangueiras ', 72), ('Parque das Nações', 53)]
+[('Residencial Vale das Nogueiras', 93), ('Parque Das Mangueiras ', 87)]
+('Parque Das Mangueiras ', 72)
+V Franciscangelis
+[('Loteamento Antonio Franciscangelis', 94), ('Chácara São Francisco ', 50), ('Fazenda Santo Ângelo', 50)]
+[('Loteamento Antonio Franciscangelis', 94), ('Chácara São Francisco ', 53)]
+('Loteamento Antonio Franciscangelis', 63)
+Vale Das Nogueira
+[('Parque Das Mangueiras ', 74), ('Residencial Vale das Nogueiras', 72), ('Parque das Nações', 56)]
+[('Residencial Vale das Nogueiras', 100), ('Parque Das Mangueiras ', 76)]
+('Parque Das Mangueiras ', 74)
+Vale Das Nogueiras
+[('Residencial Vale das Nogueiras', 100), ('Parque Das Mangueiras ', 77), ('Parque das Nações', 61)]
+[('Residencial Vale das Nogueiras', 100), ('Parque Das Mangueiras ', 78)]
+('Parque Das Mangueiras ', 77)
+Vale Das Paineiras
+[('Residencial Vale Paineiras ', 88), ('Parque Das Mangueiras ', 72), ('Residencial Vale das Nogueiras', 62)]
+[('Residencial Vale das Nogueiras', 83), ('Residencial Vale Paineiras ', 78)]
+('Residencial Vale Paineiras ', 64)
+Vale Nogueiras
+[('Residencial Vale das Nogueiras', 100), ('Parque Das Mangueiras ', 63), ('Vila Nura ', 61)]
+[('Residencial Vale das Nogueiras', 79), ('Parque Das Mangueiras ', 71)]
+('Residencial Vale das Nogueiras', 64)
+Vila America
+[('Vila Amorim ', 78), ('Vila Nova Americana ', 77), ('Vila Mariana', 75)]
+[('Vila Nova Americana ', 83), ('Vila Amorim ', 82)]
+('Vila Amorim ', 78)
+Vila Amorim
+[('Vila Amorim ', 100), ('Vila Frezzarim', 72), ('Vila Camargo ', 70)]
+[('Vila Amorim ', 100), ('Vila Camargo ', 73)]
+('Vila Amorim ', 100)
+Vila Bel Vedere
+[('Vila Belvedere', 97), ('Vila Elvira ', 69), ('Vila Redher', 69)]
+[('Vila Belvedere', 93), ('Vila Elvira ', 73)]
+('Vila Belvedere', 97)
+Vila Bela
+[('Vila Bela', 100), ('Vila Elvira ', 80), ('Vila Biasi ', 74)]
+[('Vila Bela', 100), ('Vila Elvira ', 78)]
+('Vila Bela', 100)
+Vila Belvedere
+[('Vila Belvedere', 100), ('Vila Elvira ', 72), ('Vila Redher', 72)]
+[('Vila Belvedere', 100), ('Vila Elvira ', 73)]
+('Vila Belvedere', 100)
+Vila Bertine Ii
+[('Vila Bertini', 89), ('Vila Biasi ', 64), ('Chácara Bertini', 62)]
+[('Vila Bertini', 92), ('Vila Biasi ', 70)]
+('Vila Bertini', 89)
+Vila Bertini
+[('Vila Bertini', 100), ('Chácara Bertini', 74), ('Vila Biasi ', 73)]
+[('Vila Bertini', 100), ('Chácara Bertini', 75)]
+('Vila Bertini', 100)
+Vila Cordenonsi
+[('Vila Cordenonsi', 100), ('Vila Lourdes ', 74), ('Vila Cechino ', 67)]
+[('Vila Cordenonsi', 100), ('Vila Lourdes ', 75)]
+('Vila Cordenonsi', 100)
+Vila Cordenuncia
+[('Vila Cordenonsi', 84), ('Vila Branca ', 67), ('Vila Tonica', 67)]
+[('Vila Cordenonsi', 87), ('Vila Branca ', 64)]
+('Vila Cordenonsi', 84)
+Vila Dainese
+[('Vila Dainese ', 100), ('Vila Mathiensen ', 74), ('Vila Jones', 73)]
+[('Vila Dainese ', 100), ('Vila Jones', 70)]
+('Vila Dainese ', 100)
+Vila Frezzarim
+[('Vila Frezzarim', 100), ('Vila Amorim ', 72), ('Vila Grassi ', 64)]
+[('Vila Frezzarim', 100), ('Vila Grassi ', 64)]
+('Vila Frezzarim', 100)
+Vila Frezzarin
+[('Vila Frezzarim', 93), ('Vila Zanini', 72), ('Vila Mariana', 69)]
+[('Vila Frezzarim', 93), ('Vila Zanini', 64)]
+('Vila Frezzarim', 93)
+Vila Gallo
+[('Vila Gallo ', 100), ('Vila dos Gallos ', 80), ('Vila Gobbo', 70)]
+[('Vila Gallo ', 100), ('Vila Gobbo', 70)]
+('Vila Gallo ', 100)
+Vila Galo
+[('Vila Gallo ', 95), ('Vila dos Gallos ', 75), ('Vila Gobbo', 74)]
+[('Vila Gallo ', 89), ('Vila Gobbo', 78)]
+('Vila Gallo ', 95)
+Vila Helena
+[('Vila Bela', 80), ('Vila Elvira ', 73), ('Jardim Helena ', 71)]
+[('Vila Bela', 78), ('Vila Elvira ', 73)]
+('Vila Bela', 80)
+Vila Israel
+[('Vila Israel ', 100), ('Vila Sobral', 82), ('Vila Elvira ', 73)]
+[('Vila Israel ', 100), ('Vila Sobral', 82)]
+('Vila Israel ', 100)
+Vila Jhones
+[('Vila Jones', 95), ('Vila Dainese ', 70), ('Vila Lourdes ', 70)]
+[('Vila Jones', 90), ('Vila Dainese ', 73)]
+('Vila Jones', 95)
+Vila Jones
+[('Vila Jones', 100), ('Vila Dainese ', 73), ('Vila Lourdes ', 73)]
+[('Vila Jones', 100), ('Vila Dainese ', 70)]
+('Vila Jones', 100)
+Vila Jonese
+[('Vila Jones', 95), ('Vila Dainese ', 78), ('Vila Lourdes ', 70)]
+[('Vila Jones', 100), ('Vila Dainese ', 73)]
+('Vila Jones', 95)
+Vila Machadinho
+[('Chácara Machadinho ', 80), ('Fazenda Machadinho ', 80), ('Parque Industrial Machadinho ', 80)]
+[('Parque Industrial Machadinho ', 87), ('Chácara Machadinho ', 80)]
+('Chácara Machadinho ', 73)
+Vila Margarida
+[('Vila Margarida ', 100), ('Vila Mariana', 77), ('Vila Omar ', 70)]
+[('Vila Margarida ', 100), ('Vila Omar ', 89)]
+('Vila Margarida ', 100)
+Vila Mariana
+[('Vila Mariana', 100), ('Vila Santa Maria', 86), ('Vila Branca ', 78)]
+[('Vila Mariana', 100), ('Vila Branca ', 73)]
+('Vila Mariana', 100)
+Vila Mathiense
+[('Vila Mathiensen ', 97), ('Vila Dainese ', 77), ('Vila Mariana', 69)]
+[('Vila Mathiensen ', 100), ('Vila Mariana', 75)]
+('Vila Mathiensen ', 97)
+Vila Mathiensem
+[('Vila Mathiensen ', 93), ('Vila Dainese ', 74), ('Vila Mariana', 67)]
+[('Vila Mathiensen ', 93), ('Vila Mariana', 75)]
+('Vila Mathiensen ', 93)
+Vila Mathiensen
+[('Vila Mathiensen ', 100), ('Vila Dainese ', 74), ('Vila Mariana', 67)]
+[('Vila Mathiensen ', 100), ('Vila Mariana', 75)]
+('Vila Mathiensen ', 100)
+Vila Mathiesen
+[('Vila Mathiensen ', 97), ('Vila Dainese ', 77), ('Vila Mariana', 69)]
+[('Vila Mathiensen ', 93), ('Vila Dainese ', 75)]
+('Vila Mathiensen ', 97)
+Vila Medon
+[('Vila Medon ', 100), ('Vila Molon', 80), ('Vila Jones', 70)]
+[('Vila Medon ', 100), ('Vila Molon', 80)]
+('Vila Medon ', 100)
+Vila Mollon
+[('Vila Molon', 95), ('Vila Gallo ', 76), ('Vila Medon ', 76)]
+[('Vila Molon', 90), ('Vila Gallo ', 80)]
+('Vila Molon', 95)
+Vila Mollon Iv
+[('Vila Molon', 83), ('Vila Gallo ', 67), ('Vila Medon ', 67)]
+[('Vila Molon', 90), ('Vila Gallo ', 80)]
+('Vila Molon', 83)
+Vila Molon
+[('Vila Molon', 100), ('Vila Medon ', 80), ('Vila Gallo ', 70)]
+[('Vila Molon', 100), ('Vila Medon ', 80)]
+('Vila Molon', 100)
+Vila Nossa Senhora De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 84), ('Industrial Nossa Senhora De Fátima ', 82), ('Vila De Nadai ', 70)]
+[('Industrial Nossa Senhora De Fátima ', 89), ('Jardim Nossa Senhora de Fátima  ', 86)]
+('Jardim Nossa Senhora de Fátima  ', 83)
+Vila Omar
+[('Vila Omar ', 100), ('Vila Camargo ', 76), ('Vila Mariana', 76)]
+[('Vila Omar ', 100), ('Vila Mariana', 89)]
+('Vila Omar ', 100)
+Vila Pantano Ii
+[('Vila Pântano ', 85), ('Vila Santa Inês', 76), ('Vila Pavan ', 72)]
+[('Vila Pântano ', 92), ('Vila Pavan ', 80)]
+('Vila Pântano ', 81)
+Vila Pavam
+[('Vila Pavan ', 90), ('Vila Paraíso ', 76), ('Vila Najar ', 70)]
+[('Vila Pavan ', 90), ('Vila Paraíso ', 80)]
+('Vila Pavan ', 90)
+Vila Pavan
+[('Vila Pavan ', 100), ('Vila Pântano ', 76), ('Vila Paraíso ', 76)]
+[('Vila Pavan ', 100), ('Vila Paraíso ', 80)]
+('Vila Pavan ', 100)
+Vila Primavera
+[('Jardim Primavera ', 78), ('Parque Primavera ', 78), ('Vila Pavan ', 75)]
+[('Jardim Primavera ', 79), ('Parque Primavera ', 71)]
+('Jardim Primavera ', 73)
+Vila Redher
+[('Vila Redher', 100), ('Vila Belvedere', 72), ('Vila Lourdes ', 70)]
+[('Vila Redher', 100), ('Vila Lourdes ', 73)]
+('Vila Redher', 100)
+Vila Rehder
+[('Vila Redher', 91), ('Vila Belvedere', 72), ('Vila Lourdes ', 70)]
+[('Vila Redher', 91), ('Vila Lourdes ', 73)]
+('Vila Redher', 91)
+Vila Santa Catarina
+[('Vila Santa Catarina', 100), ('Vila Santa Maria', 86), ('Vila Santa Inês', 83)]
+[('Vila Santa Catarina', 100), ('Vila Santa Maria', 81)]
+('Vila Santa Catarina', 100)
+Vila Santa Maria
+[('Vila Santa Maria', 100), ('Vila Mariana', 86), ('Vila Santa Catarina', 86)]
+[('Vila Santa Maria', 100), ('Vila Santa Catarina', 81)]
+('Vila Santa Maria', 100)
+Vila Sao Pedro
+[('Vila São Pedro ', 96), ('Vila San Pietro ', 83), ('Vila Paraíso ', 72)]
+[('Vila São Pedro ', 93), ('Vila San Pietro ', 79)]
+('Vila São Pedro ', 93)
+Vila Sta Catarina
+[('Vila Santa Catarina', 94), ('Vila Santa Maria', 79), ('Vila Santa Inês', 71)]
+[('Vila Santa Catarina', 88), ('Vila Santa Maria', 75)]
+('Vila Santa Catarina', 94)
+Vila São Pedro
+[('Vila São Pedro ', 100), ('Vila San Pietro ', 79), ('Jardim São Pedro ', 76)]
+[('Vila São Pedro ', 100), ('Jardim São Pedro ', 79)]
+('Vila São Pedro ', 100)
+Vila Zannin
+[('Vila Zanini', 91), ('Vila Santo Antônio ', 71), ('Vila Dainese ', 70)]
+[('Vila Zanini', 91), ('Vila Dainese ', 73)]
+('Vila Zanini', 91)
+Vl Bertini
+[('Vila Bertini', 91), ('Chácara Bertini', 82), ('Vila Biasi ', 60)]
+[('Vila Bertini', 90), ('Chácara Bertini', 80)]
+('Vila Bertini', 91)
+Vl Dainese
+[('Vila Dainese ', 91), ('Vila Mathiensen ', 64), ('Vila Jones', 60)]
+[('Vila Dainese ', 90), ('Vila Mathiensen ', 60)]
+('Vila Dainese ', 91)
+Vl Das Nogueiras
+[('Residencial Vale das Nogueiras', 90), ('Parque Das Mangueiras ', 70), ('Vila dos Gallos ', 58)]
+[('Residencial Vale das Nogueiras', 94), ('Parque Das Mangueiras ', 81)]
+('Residencial Vale das Nogueiras', 70)
+Vl Mariana
+[('Vila Mariana', 91), ('Vila Santa Maria', 77), ('Vila Branca ', 67)]
+[('Vila Mariana', 90), ('Vila Santa Maria', 60)]
+('Vila Mariana', 91)
+Vl Mollon
+[('Vila Molon', 84), ('Jardim Mollon ', 80), ('Vila Gallo ', 63)]
+[('Vila Molon', 82), ('Jardim Mollon ', 78)]
+('Vila Molon', 84)
+Vl N Sra De Fatima
+[('Jardim Nossa Senhora de Fátima  ', 60), ('Industrial Nossa Senhora De Fátima ', 55), ('Vila Santa Catarina', 54)]
+[('Jardim Nossa Senhora de Fátima  ', 72), ('Industrial Nossa Senhora De Fátima ', 72)]
+('Jardim Nossa Senhora de Fátima  ', 62)
+Vl Redher
+[('Vila Redher', 90), ('Vila Belvedere', 61), ('Vila Lourdes ', 57)]
+[('Vila Redher', 89), ('Vila Belvedere', 56)]
+('Vila Redher', 90)
+Vl Rehder
+[('Vila Redher', 80), ('Vila Belvedere', 61), ('Vila Lourdes ', 57)]
+[('Vila Redher', 78), ('Vila Belvedere', 56)]
+('Vila Redher', 80)
+Vl Sto Angelo
+[('Vila Sant’ Ângelo', 79), ('Vila Santo Antônio ', 67), ('São Manoel', 64)]
+[('São Manoel', 70), ('Vila Sant’ Ângelo', 69)]
+('Vila Sant’ Ângelo', 73)
+Werner Plaas
+[('Werner Plass', 92), ('Loteamento Industrial Jardim Werner Plass ', 67), ('Chácaras Alto da Represa ', 46)]
+[('Werner Plass', 92), ('Loteamento Industrial Jardim Werner Plass ', 92)]
+('Werner Plass', 92)
+Werner Plass
+[('Werner Plass', 100), ('Loteamento Industrial Jardim Werner Plass ', 100), ('Parque das Nações', 44)]
+[('Werner Plass', 100), ('Loteamento Industrial Jardim Werner Plass ', 100)]
+('Werner Plass', 100)
+Werners Plass
+[('Werner Plass', 96), ('Loteamento Industrial Jardim Werner Plass ', 56), ('Chácaras Alto da Represa ', 44)]
+[('Loteamento Industrial Jardim Werner Plass ', 96), ('Werner Plass', 92)]
+('Werner Plass', 96)
+Zanaga
+[('Antônio Zanaga', 100), ('Catharina Zanaga ', 100), ('Vila Branca ', 47)]
+[('Antônio Zanaga', 100), ('Catharina Zanaga ', 100)]
+('Antônio Zanaga', 60)
+Zanaga I
+[('Antônio Zanaga', 86), ('Catharina Zanaga ', 86), ('Jardim Santana ', 55)]
+[('Antônio Zanaga', 86), ('Catharina Zanaga ', 75)]
+('Antônio Zanaga', 55)
+Zanaga Ii
+[('Antônio Zanaga', 80), ('Catharina Zanaga ', 80), ('Jardim Santana ', 52)]
+[('Antônio Zanaga', 80), ('Catharina Zanaga ', 67)]
+('Antônio Zanaga', 52)

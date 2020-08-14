@@ -6,68 +6,47 @@ from fuzzywuzzy import process
 import difflib
 
 def name_checker(wrong_names,correct_names):
+    filter = ['I', 'II', 'III']
     names_array = []
     ratio_array = []
     for wrong_name in wrong_names:
-            x=process.extractOne(wrong_name,correct_names,scorer=fuzz.ratio)
-            names_array.append(x[0].upper())
-            ratio_array.append(x[1])
+        #wrong_name_term = [x for x in wrong_name.split(' ') if x.upper() not in filter][-1]
+        #possible_names = process.extract(wrong_name_term,correct_names,scorer=fuzz.partial_ratio)
+        possible_names = process.extract(wrong_name,correct_names,scorer=fuzz.token_set_ratio)
+        possible_names_refined = process.extract(wrong_name,[x[0] for x in possible_names[:3]],scorer=fuzz.partial_ratio)
+        correct_name = process.extractOne(wrong_name,[x[0] for x in possible_names_refined[:2]],scorer=fuzz.ratio)
+        print(wrong_name)
+        print(possible_names[:3])
+        print(possible_names_refined[:2])
+        print(correct_name)
+        names_array.append(correct_name[0])
+        ratio_array.append(correct_name[1])
     return names_array,ratio_array
-
-def diff_checker(wrong_names,correct_names):
-    names_array = []
-    for wrong_name in wrong_names:
-        match = difflib.get_close_matches(wrong_name,correct_names)
-        if match:
-            names_array.append(match)
-        else:
-            names_array.append('')
-
-    return names_array
 
 # read files:
 workfile = '../data/interim/boletim-atualizado-pcr.csv'
-wordlistfile = '../data/external/lista_de_bairros.txt'
-wordlistfilealternate = '../data/external/lista_de_bairros_prefeitura_curada.txt'
+wordlistfile = '../data/external/lista_de_bairros_prefeitura_curada.txt'
 
 df = pd.read_csv(workfile)
 
-with open(wordlistfilealternate, newline='') as f:
-    lines = f.readlines()
-
-wordlist_alternate = []
-
-for i in lines:
-        wordlist_alternate.append(i.strip('\n'))
+wordlist = []
 
 with open(wordlistfile, newline='') as f:
     lines = f.readlines()
 
-wordlist_raw = []
-wordlist = []
+for i in lines:
+        wordlist.append(i.strip('\n'))
 
 
-for line in lines:
-    wordlist_raw.append(line.strip())
-
-for i in wordlist_raw:
-    nome = re.search('^[^\(]+', i)
-    tipo = re.search('(?<=\()(.*?)(?=\s*\))', i)
-    if nome and tipo:
-        wordlist.append(tipo.group().strip()+' '+nome.group().strip())
-    else:
-        wordlist.append(nome.group().strip())
-
-match_entry = df.Bairro.tolist()
-#match_options = wordlist
-match_options = wordlist_alternate
+#match_entry = df.Bairro.tolist()
+match_entry = sorted(set(df.Bairro.tolist()))
+match_options = wordlist
 
 name_match,ratio_match = name_checker(match_entry,match_options)
-#name_match = diff_checker(match_entry,match_options)
 
 df_out = pd.DataFrame()
 df_out['old_name'] = pd.Series(match_entry)
 df_out['correct_name_auto'] = pd.Series(name_match)
 df_out['correct_ratio'] = pd.Series(ratio_match)
 
-df_out.to_csv(r'../teste.csv', index=False)
+df_out.to_csv(r'../data/processed/names_test.csv', index=False)

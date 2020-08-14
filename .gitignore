@@ -1,2 +1,9 @@
 # ignore backups from previous data retrievals
 data/raw/boletim-atualizado_*
+
+# no need to share splitted raw files
+data/interim/*pdf
+
+# no need to share newbie experimentation
+data/processed/*test*
+src/*test*
