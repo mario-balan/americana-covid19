@@ -19,20 +19,24 @@ def split(input, output, first, last):
 
 infile = '../data/raw/boletim-atualizado.pdf'
 pdf = PyPDF2.PdfFileReader(infile)
+print(pdf.documentInfo)
 
-string = 'boletim coronavírus - internações'
-outfile = '../data/interim/boletim-atualizado-obitos.pdf'
+#string = 'boletim coronavírus - óbitos'
+string = 'óbitos'
+outfile = '../data/interim/boletim-atualizado-internacoes.pdf'
 first = 0
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
-string = 'boletim coronavírus - pcr'
-outfile = '../data/interim/boletim-atualizado-internacoes.pdf'
+#string = 'boletim coronavírus - pcr'
+string = 'pcrpositivo'
+outfile = '../data/interim/boletim-atualizado-obitos.pdf'
 first = last
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
-string = 'boletim coronavírus - testes rápidos'
+#string = 'boletim coronavírus - testes rápidos'
+string = 'rápidosatualizado'
 outfile = '../data/interim/boletim-atualizado-pcr.pdf'
 first = last
 last = find(pdf, string)
