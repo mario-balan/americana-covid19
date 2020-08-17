@@ -22,15 +22,15 @@ pdf = PyPDF2.PdfFileReader(infile)
 print(pdf.documentInfo)
 
 #string = 'boletim coronavírus - óbitos'
-string = 'óbitos'
-outfile = '../data/interim/boletim-atualizado-internacoes.pdf'
+string = 'internações'
+outfile = '../data/interim/boletim-atualizado-obitos.pdf'
 first = 0
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
 #string = 'boletim coronavírus - pcr'
 string = 'pcrpositivo'
-outfile = '../data/interim/boletim-atualizado-obitos.pdf'
+outfile = '../data/interim/boletim-atualizado-internacoes.pdf'
 first = last
 last = find(pdf, string)
 split(pdf, outfile, first, last)
