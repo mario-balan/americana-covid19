@@ -1,5 +1,7 @@
-import PyPDF2, re
+import PyPDF2, re, os
 
+basepath = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+os.chdir(basepath)
 
 def find(input, string):
     pdf = input
@@ -17,32 +19,33 @@ def split(input, output, first, last):
     with open(output, 'wb') as output_pdf:
         pdf_writer.write(output_pdf)
 
-infile = '../data/raw/boletim-atualizado.pdf'
+
+infile = 'data/raw/boletim-atualizado.pdf'
 pdf = PyPDF2.PdfFileReader(infile)
 print(pdf.documentInfo)
 
 string = 'boletim coronavírus - internações'
 #string = 'internações'
-outfile = '../data/interim/boletim-atualizado-obitos.pdf'
+outfile = 'data/interim/boletim-atualizado-obitos.pdf'
 first = 0
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
 string = 'boletim coronavírus - pcr'
 #string = 'pcrpositivo'
-outfile = '../data/interim/boletim-atualizado-internacoes.pdf'
+outfile = 'data/interim/boletim-atualizado-internacoes.pdf'
 first = last
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
 string = 'boletim coronavírus - testes rápidos'
 #string = 'rápidosatualizado'
-outfile = '../data/interim/boletim-atualizado-pcr.pdf'
+outfile = 'data/interim/boletim-atualizado-pcr.pdf'
 first = last
 last = find(pdf, string)
 split(pdf, outfile, first, last)
 
-outfile = '../data/interim/boletim-atualizado-testes-rapidos.pdf'
+outfile = 'data/interim/boletim-atualizado-testes-rapidos.pdf'
 first = last
 last = pdf.getNumPages()
 split(pdf, outfile, first, last)

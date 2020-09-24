@@ -5,6 +5,9 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import difflib
 
+basepath = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+os.chdir(basepath)
+
 def name_checker(wrong_names,correct_names):
     filter = ['I', 'II', 'III']
     names_array = []
@@ -24,8 +27,8 @@ def name_checker(wrong_names,correct_names):
     return names_array,ratio_array
 
 # read files:
-workfile = '../data/interim/boletim-atualizado-pcr.csv'
-wordlistfile = '../data/external/lista_de_bairros_prefeitura_curada.txt'
+workfile = 'data/interim/boletim-atualizado-pcr.csv'
+wordlistfile = 'data/external/lista_de_bairros_prefeitura_curada.txt'
 
 df = pd.read_csv(workfile)
 
@@ -49,4 +52,4 @@ df_out['old_name'] = pd.Series(match_entry)
 df_out['correct_name_auto'] = pd.Series(name_match)
 df_out['correct_ratio'] = pd.Series(ratio_match)
 
-df_out.to_csv(r'../data/processed/names_test.csv', index=False)
+df_out.to_csv(r'data/processed/names_test.csv', index=False)

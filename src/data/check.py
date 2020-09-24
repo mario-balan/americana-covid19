@@ -3,8 +3,11 @@ import time, pytz
 from datetime import datetime
 from dateutil.parser import parse
 
+basepath = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+os.chdir(basepath)
+
 url = 'http://www.americana.sp.gov.br/coronavirus/boletim-atualizado.pdf'
-file = '../data/raw/boletim-atualizado.pdf'
+file = 'data/raw/boletim-atualizado.pdf'
 r = requests.head(url)
 url_time = parse(r.headers['last-modified'])
 
